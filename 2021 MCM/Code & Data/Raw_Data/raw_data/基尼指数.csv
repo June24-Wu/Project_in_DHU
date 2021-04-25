@@ -1,0 +1,3591 @@
+Area,Year,Gini_Index
+Afghanistan,2008,29
+Afghanistan,2012,33
+Afghanistan,2017,31
+Albania,1996,27.01
+Albania,2002,31.74
+Albania,2005,30.6
+Albania,2008,29.98
+Albania,2012,28.96
+Algeria,1988,40.19
+Algeria,1995,35.33
+Algeria,2012,27.62
+Andorra,2001,26.46
+Andorra,2002,26.76
+Andorra,2003,27.21
+Andorra,2016,27.96
+Angola,1995,45
+Angola,2001,51.96
+Angola,2009,46.10285714
+Argentina,1953,40.6
+Argentina,1959,45.5
+Argentina,1961,45.15384615
+Argentina,1963,37.2
+Argentina,1965,35.3
+Argentina,1969,37.3
+Argentina,1970,38.6
+Argentina,1972,34.35
+Argentina,1974,34.275
+Argentina,1975,35.4
+Argentina,1976,35.2
+Argentina,1977,40.3
+Argentina,1978,43.4
+Argentina,1979,41.3
+Argentina,1980,40.105
+Argentina,1981,42.75
+Argentina,1982,40.2
+Argentina,1983,40.4
+Argentina,1985,39.8
+Argentina,1986,41.83
+Argentina,1987,44.12
+Argentina,1988,44.8
+Argentina,1989,47.6
+Argentina,1990,46.6
+Argentina,1991,45.39
+Argentina,1992,44.56714286
+Argentina,1993,43.85333333
+Argentina,1994,45.924
+Argentina,1995,47.325
+Argentina,1996,47.584
+Argentina,1997,48.262
+Argentina,1998,48.99
+Argentina,1999,49.8975
+Argentina,2000,50.552
+Argentina,2001,51.535
+Argentina,2002,52.0225
+Argentina,2003,49.98833333
+Argentina,2004,46.54
+Argentina,2005,45.8875
+Argentina,2006,45.4125
+Argentina,2007,45.05
+Argentina,2008,43.235
+Argentina,2009,44.03166667
+Argentina,2010,42.21
+Argentina,2011,41.2625
+Argentina,2012,39.9675
+Argentina,2013,39.7025
+Argentina,2014,40.1125
+Argentina,2015,39.005
+Argentina,2016,40.77
+Argentina,2017,39.545
+Argentina,2018,39.6
+Armenia,1986,26.9
+Armenia,1988,28
+Armenia,1989,25.85
+Armenia,1990,26.9
+Armenia,1991,29.6
+Armenia,1992,35.5
+Armenia,1993,36.6
+Armenia,1994,32.1
+Armenia,1995,38.1
+Armenia,1996,48.98
+Armenia,1998,46
+Armenia,1999,36.22
+Armenia,2000,48.6
+Armenia,2001,35.36
+Armenia,2002,35.34
+Armenia,2003,45.24333333
+Armenia,2004,41.505
+Armenia,2005,39.695
+Armenia,2006,34.855
+Armenia,2007,32.5265942
+Armenia,2008,33.07992754
+Armenia,2009,33.22326087
+Armenia,2010,34.11326087
+Armenia,2011,34.19992754
+Armenia,2012,29.6
+Armenia,2013,30.58
+Armenia,2014,31.48
+Armenia,2015,32.36
+Armenia,2016,32.55
+Armenia,2017,33.62
+Australia,1942,29.15
+Australia,1943,34.9
+Australia,1944,28.6
+Australia,1945,29.05
+Australia,1946,28.6
+Australia,1947,30.85
+Australia,1948,31.15
+Australia,1949,31.8
+Australia,1950,36.5
+Australia,1951,28.75
+Australia,1952,28.8
+Australia,1953,27.5
+Australia,1954,27.75
+Australia,1955,28.15
+Australia,1956,27.75
+Australia,1957,26.9
+Australia,1958,27.55
+Australia,1959,27.8
+Australia,1960,27.8
+Australia,1961,27.9
+Australia,1962,32.76666667
+Australia,1963,28.05
+Australia,1964,27.3
+Australia,1965,27.25
+Australia,1966,27.6
+Australia,1967,29.675
+Australia,1968,30.8
+Australia,1969,29.33333333
+Australia,1970,28
+Australia,1971,27.85
+Australia,1972,25.35
+Australia,1973,26
+Australia,1974,25.1
+Australia,1975,22.35
+Australia,1976,29.5
+Australia,1977,23.25
+Australia,1978,27.4
+Australia,1979,28.33333333
+Australia,1980,23.95
+Australia,1981,31.04777778
+Australia,1982,24.5
+Australia,1983,25.1
+Australia,1984,25.1
+Australia,1985,31
+Australia,1986,35.85714286
+Australia,1987,27.95
+Australia,1988,30.6
+Australia,1989,32.43571429
+Australia,1990,37.6625
+Australia,1991,30.05
+Australia,1992,30.65
+Australia,1993,30.85
+Australia,1994,30.4
+Australia,1995,37.232
+Australia,1996,34.825
+Australia,1997,34.775
+Australia,1998,39.2
+Australia,1999,33.15
+Australia,2000,36.88333333
+Australia,2001,33.72
+Australia,2002,30.9
+Australia,2003,34.48
+Australia,2004,34.133
+Australia,2008,36.72875
+Australia,2010,35.176
+Australia,2011,28.3
+Australia,2012,38.56666667
+Australia,2014,37.964
+Australia,2016,33
+Austria,1970,29.3
+Austria,1972,26.7
+Austria,1976,31.2
+Austria,1977,24.3
+Austria,1981,31.4
+Austria,1983,31
+Austria,1987,25.76666667
+Austria,1991,26.3
+Austria,1994,29.65
+Austria,1995,28.36666667
+Austria,1996,26
+Austria,1997,27.26666667
+Austria,1998,24
+Austria,1999,26
+Austria,2000,26.23333333
+Austria,2001,24
+Austria,2003,28.43
+Austria,2004,28.1225
+Austria,2005,27.505
+Austria,2006,27.445
+Austria,2007,32.24
+Austria,2008,33.608
+Austria,2009,34.478
+Austria,2010,32.40714286
+Austria,2011,33.74
+Austria,2012,33.456
+Austria,2013,32.37857143
+Austria,2014,33.326
+Austria,2015,33.446
+Austria,2016,27.8
+Austria,2017,27.9
+Austria,2018,26.8
+Azerbaijan,1972,27.1
+Azerbaijan,1976,26.1
+Azerbaijan,1981,25.2
+Azerbaijan,1986,26.6
+Azerbaijan,1988,31.7
+Azerbaijan,1989,30.36666667
+Azerbaijan,1990,34.5
+Azerbaijan,1992,36.1
+Azerbaijan,1994,42.8
+Azerbaijan,1995,40.275
+Azerbaijan,1996,45.8
+Azerbaijan,1997,46.2
+Azerbaijan,1998,46.2
+Azerbaijan,2000,40.35
+Azerbaijan,2001,41.28333333
+Azerbaijan,2002,38.04
+Azerbaijan,2003,26.83
+Azerbaijan,2004,26.62
+Azerbaijan,2005,26.55
+Azerbaijan,2015,35.40692308
+Azerbaijan,2018,35.40692308
+"Bahamas, The",1970,47.5
+"Bahamas, The",1973,44.4
+"Bahamas, The",1975,53.2
+"Bahamas, The",1977,49.2
+"Bahamas, The",1979,52.8
+"Bahamas, The",1986,48.1
+"Bahamas, The",1988,40.6
+"Bahamas, The",1989,44.5
+"Bahamas, The",1991,41.8
+"Bahamas, The",1992,41.9
+"Bahamas, The",1993,45.3
+"Bahamas, The",2001,57.45
+"Bahamas, The",2003,48
+"Bahamas, The",2004,43
+"Bahamas, The",2013,41.4
+Bahrain,2015,59.6
+Bangladesh,1959,37.1
+Bangladesh,1960,41.8
+Bangladesh,1961,45
+Bangladesh,1963,38.76666667
+Bangladesh,1965,44.9
+Bangladesh,1966,42
+Bangladesh,1967,30.02857143
+Bangladesh,1969,35.7
+Bangladesh,1973,33.03333333
+Bangladesh,1977,40.8
+Bangladesh,1978,35.2
+Bangladesh,1981,38.36666667
+Bangladesh,1983,36
+Bangladesh,1984,29.29
+Bangladesh,1986,32.13
+Bangladesh,1989,32.38333333
+Bangladesh,1992,32.285
+Bangladesh,1996,38.21333333
+Bangladesh,2000,33.41
+Bangladesh,2005,41.3
+Bangladesh,2010,41.5575
+Bangladesh,2016,43.9725
+Barbados,1951,43.7
+Barbados,1952,44.56666667
+Barbados,1953,41.7
+Barbados,1954,53.5
+Barbados,1955,40.5
+Barbados,1957,41.1
+Barbados,1958,39.8
+Barbados,1959,41.9
+Barbados,1960,40
+Barbados,1962,39.1
+Barbados,1970,39.75
+Barbados,1971,37.6
+Barbados,1972,34.5
+Barbados,1973,32.8
+Barbados,1976,31
+Barbados,1978,41.86666667
+Barbados,1979,35.1
+Barbados,1980,30.9
+Barbados,1981,28.9
+Barbados,2010,45
+Barbados,2017,32
+Belarus,1981,23.4
+Belarus,1986,25.4
+Belarus,1988,23.5
+Belarus,1989,23.36666667
+Belarus,1990,23.3
+Belarus,1992,34.1
+Belarus,1993,30.75
+Belarus,1995,30.292
+Belarus,1996,29.75
+Belarus,1997,29.43333333
+Belarus,1998,30.03
+Belarus,1999,29.035
+Belarus,2000,29.85666667
+Belarus,2001,29.79333333
+Belarus,2002,29.71333333
+Belarus,2003,29.24
+Belarus,2004,28.36
+Belarus,2005,27.98333333
+Belarus,2006,29.42666667
+Belarus,2007,29.61
+Belarus,2008,27.83
+Belarus,2009,27.69
+Belarus,2010,28.57
+Belarus,2011,27.15
+Belarus,2012,26.53
+Belarus,2013,26.58
+Belarus,2014,27.18
+Belarus,2015,25.63
+Belarus,2016,25.31
+Belarus,2017,25.44
+Belgium,1969,34.35
+Belgium,1973,43.8
+Belgium,1975,41.9
+Belgium,1976,41.6
+Belgium,1977,40.6
+Belgium,1979,28.3
+Belgium,1985,24.075
+Belgium,1988,24.425
+Belgium,1992,28.725
+Belgium,1993,30.8
+Belgium,1994,30.4
+Belgium,1995,27.93333333
+Belgium,1996,28
+Belgium,1997,28.88
+Belgium,1998,27
+Belgium,1999,29
+Belgium,2000,31.53333333
+Belgium,2001,28
+Belgium,2003,28.22
+Belgium,2004,33.726
+Belgium,2005,33.326
+Belgium,2006,32.49
+Belgium,2007,32.546
+Belgium,2008,32.114
+Belgium,2009,32.29
+Belgium,2010,32.354
+Belgium,2011,32.332
+Belgium,2012,32.018
+Belgium,2013,32.154
+Belgium,2014,32.346
+Belgium,2015,32.426
+Belgium,2016,26.45
+Belgium,2017,26
+Belgium,2018,25.6
+Belize,1993,60.25
+Belize,1994,60.91
+Belize,1995,57.55
+Belize,1996,56.59
+Belize,1997,60.43
+Belize,1998,54.91
+Belize,1999,53.26
+Benin,1959,40.33333333
+Benin,2003,38.58
+Benin,2012,43.44
+Benin,2015,47.76
+Bhutan,2003,40.9
+Bhutan,2007,38.09
+Bhutan,2012,38.81
+Bhutan,2017,37.44
+Bolivia,1968,49.6
+Bolivia,1986,51.6
+Bolivia,1989,53.1
+Bolivia,1990,54.5
+Bolivia,1991,42.04
+Bolivia,1992,49.442
+Bolivia,1993,52.36666667
+Bolivia,1994,51.4
+Bolivia,1995,52.7
+Bolivia,1996,56.88
+Bolivia,1997,56.74
+Bolivia,1999,57.43
+Bolivia,2000,61.1425
+Bolivia,2001,57.6
+Bolivia,2002,59.3275
+Bolivia,2004,55.005
+Bolivia,2005,59.2325
+Bolivia,2006,57.0425
+Bolivia,2007,54.9575
+Bolivia,2008,50.405
+Bolivia,2009,49.35333333
+Bolivia,2011,45.795
+Bolivia,2012,46.245
+Bolivia,2013,47.1975
+Bolivia,2014,47.0825
+Bolivia,2015,45.8325
+Bolivia,2016,44.51
+Bolivia,2017,43.98
+Bolivia,2018,43.8
+Bosnia and Herzegovina,1991,32.9
+Bosnia and Herzegovina,2001,29.97
+Bosnia and Herzegovina,2004,34.04
+Bosnia and Herzegovina,2007,33.06
+Bosnia and Herzegovina,2011,33.03
+Botswana,1971,57.4
+Botswana,1975,52
+Botswana,1986,52.7775
+Botswana,1994,52.4475
+Botswana,2003,61.54333333
+Botswana,2010,51.19
+Botswana,2016,53.33
+Brazil,1958,49.1
+Brazil,1960,54.18461538
+Brazil,1970,57.41818182
+Brazil,1972,61
+Brazil,1974,55.3
+Brazil,1976,60
+Brazil,1978,56
+Brazil,1979,55.825
+Brazil,1980,56
+Brazil,1981,56.8625
+Brazil,1982,56.4775
+Brazil,1983,57.76
+Brazil,1984,57.3425
+Brazil,1985,55.5425
+Brazil,1986,57.59
+Brazil,1987,58.7475
+Brazil,1988,60.5325
+Brazil,1989,61.625
+Brazil,1990,59.69857143
+Brazil,1992,55.494
+Brazil,1993,59.472
+Brazil,1995,58.597
+Brazil,1996,59.059
+Brazil,1997,58.95
+Brazil,1998,58.7525
+Brazil,1999,59.55571429
+Brazil,2001,57.6775
+Brazil,2002,57.3275
+Brazil,2003,53.13714286
+Brazil,2004,55.58
+Brazil,2005,55.505
+Brazil,2006,54.04090909
+Brazil,2007,54.2325
+Brazil,2008,53.41
+Brazil,2009,51.830625
+Brazil,2011,51.33181818
+Brazil,2012,52.0225
+Brazil,2013,50.64272727
+Brazil,2014,50.9675
+Brazil,2015,50.805
+Brazil,2016,53.0825
+Brazil,2017,52.8475
+Brazil,2018,54
+Brunei,1981,56.4
+Brunei,2005,56.4
+Brunei,2011,56.4
+Brunei,2016,56.4
+Bulgaria,1957,24.6
+Bulgaria,1960,24.6
+Bulgaria,1962,21.2
+Bulgaria,1963,22.5
+Bulgaria,1965,22.2
+Bulgaria,1967,19.45
+Bulgaria,1968,15.9
+Bulgaria,1969,18.4
+Bulgaria,1970,20.15
+Bulgaria,1971,20.25
+Bulgaria,1972,20.15
+Bulgaria,1973,19.2
+Bulgaria,1974,19.05
+Bulgaria,1975,17.65
+Bulgaria,1976,18.1
+Bulgaria,1977,25
+Bulgaria,1978,26
+Bulgaria,1979,25.8
+Bulgaria,1980,25
+Bulgaria,1981,24.4
+Bulgaria,1982,24.7
+Bulgaria,1983,25
+Bulgaria,1984,23.5
+Bulgaria,1985,23.4
+Bulgaria,1986,22.6
+Bulgaria,1987,20.8
+Bulgaria,1988,22
+Bulgaria,1989,22.47666667
+Bulgaria,1990,22.33333333
+Bulgaria,1991,26.2
+Bulgaria,1992,30.90333333
+Bulgaria,1993,29.5
+Bulgaria,1994,30.86
+Bulgaria,1995,36.72333333
+Bulgaria,1996,30.25
+Bulgaria,1997,36.99333333
+Bulgaria,1998,34.5
+Bulgaria,1999,32.6
+Bulgaria,2000,29.1
+Bulgaria,2001,36.495
+Bulgaria,2002,31.5
+Bulgaria,2003,32.01
+Bulgaria,2004,35.8
+Bulgaria,2005,33.8
+Bulgaria,2006,32.63333333
+Bulgaria,2007,32.8575
+Bulgaria,2008,33.52333333
+Bulgaria,2009,33.61
+Bulgaria,2010,34.425
+Bulgaria,2011,34.64
+Bulgaria,2012,34.805
+Bulgaria,2013,35.985
+Bulgaria,2014,36.41
+Bulgaria,2015,37
+Bulgaria,2016,37.7
+Bulgaria,2017,40.2
+Bulgaria,2018,39.6
+Burkina Faso,1994,50.67428571
+Burkina Faso,1995,58.435
+Burkina Faso,1998,56.73809524
+Burkina Faso,2003,46.96214285
+Burkina Faso,2009,39.76
+Burkina Faso,2014,35.3
+Burundi,1992,33.33
+Burundi,1999,42.35
+Burundi,2006,33.36
+Burundi,2014,38.62
+Cambodia,1994,38.5
+Cambodia,1997,44.7
+Cambodia,1999,37.4
+Cambodia,2004,35.46
+Cambodia,2007,41.14
+Cambodia,2008,35.1
+Cambodia,2009,35.4675
+Cambodia,2010,34.8625
+Cambodia,2011,33.9925
+Cambodia,2012,33.5225
+Cambodia,2013,36.285
+Cambodia,2014,36.285
+Cameroon,1983,49
+Cameroon,1996,52.725
+Cameroon,2001,42.14
+Cameroon,2007,37.305
+Cameroon,2014,46.64
+Canada,1951,35.8
+Canada,1957,32
+Canada,1961,31.5
+Canada,1965,33.63333333
+Canada,1967,31.4
+Canada,1969,33.85
+Canada,1971,34.75
+Canada,1973,31.6
+Canada,1974,31
+Canada,1975,32.35
+Canada,1976,33.86666667
+Canada,1977,32.32857143
+Canada,1978,32.93333333
+Canada,1979,32.07142857
+Canada,1980,31.82857143
+Canada,1981,31.88857143
+Canada,1982,32.2125
+Canada,1983,33.55
+Canada,1984,33.375
+Canada,1985,32.9625
+Canada,1986,32.8875
+Canada,1987,32.46928571
+Canada,1988,32.3625
+Canada,1989,31.625
+Canada,1990,32.4
+Canada,1991,32.92133333
+Canada,1992,34.27142857
+Canada,1993,33.975
+Canada,1994,33.23538462
+Canada,1995,34.35
+Canada,1996,34.51111111
+Canada,1997,34.18692308
+Canada,1998,35.28153846
+Canada,1999,35.725
+Canada,2000,35.51076923
+Canada,2001,37.21666667
+Canada,2002,37.18333333
+Canada,2003,36.98333333
+Canada,2004,36.22181818
+Canada,2005,36.91666667
+Canada,2006,36.78333333
+Canada,2007,35.86727273
+Canada,2008,36.65
+Canada,2009,36.93333333
+Canada,2010,35.89909091
+Canada,2011,36.56666667
+Canada,2012,36.76666667
+Canada,2013,35.98363636
+Canada,2014,36.38333333
+Canada,2015,36.9
+Canada,2016,34.8
+Canada,2017,35.25
+Cape Verde,2002,52.5
+Cape Verde,2008,47.19
+Cape Verde,2015,43.33333333
+Central African Republic,1993,58.165
+Central African Republic,2003,43.61
+Central African Republic,2008,56.24
+Chad,1958,34.05
+Chad,2003,39.82
+Chad,2011,43.32
+Chile,1964,46.2
+Chile,1968,44.6
+Chile,1970,50.1
+Chile,1971,46
+Chile,1972,44
+Chile,1973,44.5
+Chile,1974,44.5
+Chile,1975,47.05
+Chile,1976,53.4
+Chile,1977,51.8
+Chile,1978,51.5
+Chile,1979,49.4
+Chile,1980,51.93333333
+Chile,1981,51.56666667
+Chile,1982,55.45
+Chile,1983,54.35
+Chile,1984,55.65
+Chile,1985,54.05
+Chile,1986,54.8
+Chile,1987,53.985
+Chile,1988,54.5
+Chile,1989,54.6
+Chile,1990,54.51
+Chile,1991,55.4
+Chile,1992,52.52928571
+Chile,1993,50
+Chile,1994,54.47153846
+Chile,1995,57.2
+Chile,1996,54.02846154
+Chile,1998,53.98
+Chile,1999,57.3
+Chile,2000,53.16333333
+Chile,2003,51.015
+Chile,2006,49.14
+Chile,2009,48.66888889
+Chile,2011,47.62111111
+Chile,2013,47.19111111
+Chile,2015,46.81333333
+Chile,2017,45.92
+China,1953,55.8
+China,1964,30.5
+China,1966,30.7
+China,1968,30.9
+China,1970,27.9
+China,1972,27.7
+China,1974,27.3
+China,1975,26.6
+China,1977,18.6
+China,1978,22.03333333
+China,1979,23.7
+China,1980,21.46333333
+China,1981,22.02636364
+China,1982,19.91666667
+China,1983,22.05714286
+China,1984,22.64333333
+China,1985,23.591
+China,1986,25.87
+China,1987,26.637
+China,1988,29.54545455
+China,1989,28.664
+China,1990,29.55777778
+China,1991,28.989
+China,1992,28.66
+China,1993,31.77571429
+China,1994,33.906
+China,1995,33.394
+China,1996,33.19666667
+China,1997,34.08333333
+China,1998,33.93
+China,1999,34.85875
+China,2000,34.78833333
+China,2001,35.706
+China,2002,38.55045455
+China,2003,35.44
+China,2005,37.19
+China,2006,39.9
+China,2007,39.88333333
+China,2008,39.76833333
+China,2009,40.66666667
+China,2010,43.24333333
+China,2011,43.295
+China,2012,41.23214709
+China,2013,39.2062802
+China,2014,36.97822064
+China,2015,36.63322064
+China,2016,37.36977461
+China,2017,37.43644128
+Colombia,1960,59.2
+Colombia,1962,50.4
+Colombia,1964,59.8
+Colombia,1967,47
+Colombia,1970,51.80909091
+Colombia,1971,49.025
+Colombia,1972,53.74
+Colombia,1974,49
+Colombia,1975,56
+Colombia,1976,50.8
+Colombia,1978,51.625
+Colombia,1979,52.5
+Colombia,1980,54.17666667
+Colombia,1982,54
+Colombia,1983,43.4
+Colombia,1985,44.7
+Colombia,1988,49.9275
+Colombia,1989,53.395
+Colombia,1991,53.444
+Colombia,1992,49.725
+Colombia,1993,58.12
+Colombia,1994,56
+Colombia,1995,56.5
+Colombia,1996,55.61
+Colombia,1997,55.5
+Colombia,1998,57.25
+Colombia,1999,56.00666667
+Colombia,2000,56.22666667
+Colombia,2001,55.63333333
+Colombia,2002,55.3975
+Colombia,2003,52.9425
+Colombia,2004,54.4425
+Colombia,2005,53.325
+Colombia,2007,57.75
+Colombia,2008,54.43428571
+Colombia,2009,53.18428571
+Colombia,2010,53.71181818
+Colombia,2011,53.255
+Colombia,2012,52.4125
+Colombia,2013,53.3775
+Colombia,2014,52.4075
+Colombia,2015,50.8
+Colombia,2016,50.485
+Colombia,2017,49.395
+Colombia,2018,52
+Comoros,2004,55.93
+Comoros,2014,45.33
+"Congo, Democratic Republic of the",2005,42.16
+"Congo, Democratic Republic of the",2013,42.1
+"Congo, Republic of the",1958,43.3
+"Congo, Republic of the",2005,47.33
+"Congo, Republic of the",2011,48.94
+Costa Rica,1961,50.6
+Costa Rica,1969,51
+Costa Rica,1971,43.41666667
+Costa Rica,1974,45.2
+Costa Rica,1977,47.5
+Costa Rica,1979,45
+Costa Rica,1981,46.2475
+Costa Rica,1982,42
+Costa Rica,1983,45.35
+Costa Rica,1986,38.21
+Costa Rica,1989,44.61125
+Costa Rica,1990,43.18333333
+Costa Rica,1991,45.03571429
+Costa Rica,1992,43.885
+Costa Rica,1993,44.41428571
+Costa Rica,1994,45.10833333
+Costa Rica,1995,44.50142857
+Costa Rica,1996,45.41
+Costa Rica,1997,43.98666667
+Costa Rica,1998,44.9925
+Costa Rica,1999,46.36166667
+Costa Rica,2000,46.40714286
+Costa Rica,2001,50.02666667
+Costa Rica,2002,50.795
+Costa Rica,2003,48.4725
+Costa Rica,2004,47.8875
+Costa Rica,2005,46.9675
+Costa Rica,2006,48.785
+Costa Rica,2007,48.9725
+Costa Rica,2008,48.245
+Costa Rica,2009,50.19
+Costa Rica,2010,48.52888889
+Costa Rica,2011,48.404
+Costa Rica,2012,48.484
+Costa Rica,2013,49.254
+Costa Rica,2014,48.466
+Costa Rica,2015,48.136
+Costa Rica,2016,48.498
+Costa Rica,2017,48.168
+Costa Rica,2018,48.6
+Cote d'Ivoire,1959,42.73333333
+Cote d'Ivoire,1970,52.55
+Cote d'Ivoire,1978,50
+Cote d'Ivoire,1985,55.3
+Cote d'Ivoire,1986,45.53
+Cote d'Ivoire,1987,37.97
+Cote d'Ivoire,1988,40.51
+Cote d'Ivoire,1989,36.89
+Cote d'Ivoire,1993,39.39
+Cote d'Ivoire,1995,40.56
+Cote d'Ivoire,1998,39.88
+Cote d'Ivoire,2002,49.20666667
+Cote d'Ivoire,2008,46.63
+Cote d'Ivoire,2015,48.594
+Croatia,1987,21.1
+Croatia,1988,22.49
+Croatia,1989,30.55
+Croatia,1990,27.1
+Croatia,1991,26.7
+Croatia,1992,27.5
+Croatia,1993,26.5
+Croatia,1997,24.6
+Croatia,1998,33.51666667
+Croatia,1999,27.71
+Croatia,2000,31.33
+Croatia,2001,31.1
+Croatia,2003,29
+Croatia,2004,29.68
+Croatia,2008,33.71
+Croatia,2009,32.87
+Croatia,2010,30.44333333
+Croatia,2011,31.73
+Croatia,2012,31.685
+Croatia,2013,31.445
+Croatia,2014,31.155
+Croatia,2015,30.755
+Croatia,2016,29.8
+Croatia,2017,29.9
+Croatia,2018,29.7
+Cuba,1953,51
+Cuba,1962,35
+Cuba,1973,28
+Cuba,1978,27
+Cuba,1986,24
+Cuba,2000,38
+Cyprus,1966,25.55
+Cyprus,1997,29
+Cyprus,2003,27
+Cyprus,2004,30.09
+Cyprus,2005,29.48
+Cyprus,2006,29.96
+Cyprus,2007,30.455
+Cyprus,2008,30.355
+Cyprus,2009,30.805
+Cyprus,2010,30.78
+Cyprus,2011,30.91
+Cyprus,2012,32.655
+Cyprus,2013,34.72
+Cyprus,2014,35.18
+Cyprus,2015,33.78
+Cyprus,2016,32.1
+Cyprus,2017,30.8
+Cyprus,2018,29.1
+Czechia,1958,23.9
+Czechia,1987,19.8
+Czechia,1988,19.4
+Czechia,1989,19.625
+Czechia,1990,19.55
+Czechia,1991,21.7
+Czechia,1992,22.95
+Czechia,1993,25.22
+Czechia,1994,24.5
+Czechia,1995,24.9
+Czechia,1996,28.22444444
+Czechia,1997,24.9
+Czechia,1998,23.5
+Czechia,1999,24.45
+Czechia,2000,25.05
+Czechia,2001,25.8
+Czechia,2002,29.475
+Czechia,2003,25.95
+Czechia,2004,29.793
+Czechia,2005,29.74857143
+Czechia,2006,29.75666667
+Czechia,2007,28.36
+Czechia,2008,30.136
+Czechia,2009,30.112
+Czechia,2010,29.18
+Czechia,2011,30.416
+Czechia,2012,30.082
+Czechia,2013,29.36333333
+Czechia,2014,30.484
+Czechia,2015,30.474
+Czechia,2016,25.2
+Czechia,2017,24.5
+Czechia,2018,24
+Czechoslovakia,1958,25.85
+Czechoslovakia,1959,20.1
+Czechoslovakia,1961,19.1
+Czechoslovakia,1962,19
+Czechoslovakia,1963,18.5
+Czechoslovakia,1964,19.1
+Czechoslovakia,1965,22.6
+Czechoslovakia,1966,18.7
+Czechoslovakia,1968,19.4
+Czechoslovakia,1970,21.15
+Czechoslovakia,1973,20.35
+Czechoslovakia,1975,19.5
+Czechoslovakia,1976,20.7
+Czechoslovakia,1977,19.45
+Czechoslovakia,1979,19.6
+Czechoslovakia,1980,20.5
+Czechoslovakia,1981,21.8
+Czechoslovakia,1983,19.8
+Czechoslovakia,1985,19.85
+Czechoslovakia,1987,19.8
+Czechoslovakia,1988,20.1
+Czechoslovakia,1989,19.8
+Czechoslovakia,1991,24.6
+Czechoslovakia,1992,24.5
+Denmark,1939,47.33333333
+Denmark,1944,43
+Denmark,1949,39
+Denmark,1952,42
+Denmark,1953,40
+Denmark,1955,39.15
+Denmark,1961,38
+Denmark,1963,38.33333333
+Denmark,1964,37
+Denmark,1966,32.53333333
+Denmark,1968,43.9
+Denmark,1971,22.5
+Denmark,1976,29
+Denmark,1978,40.1
+Denmark,1979,40.6
+Denmark,1980,41.3
+Denmark,1981,30.2
+Denmark,1982,28.9
+Denmark,1983,27.75
+Denmark,1984,31.53333333
+Denmark,1985,28
+Denmark,1986,28.625
+Denmark,1987,27.1
+Denmark,1988,31.2
+Denmark,1989,26.35
+Denmark,1990,32.94
+Denmark,1991,30.6
+Denmark,1992,29.72222222
+Denmark,1993,30.15
+Denmark,1994,32.425
+Denmark,1995,28.85
+Denmark,1996,21.6
+Denmark,1997,28.6
+Denmark,1998,31.46666667
+Denmark,1999,29.45
+Denmark,2000,30
+Denmark,2001,30.5
+Denmark,2002,37
+Denmark,2003,25.215
+Denmark,2004,25.20166667
+Denmark,2005,28.4725
+Denmark,2006,28.7525
+Denmark,2007,28.06
+Denmark,2008,28.76
+Denmark,2009,29.55
+Denmark,2010,29.1375
+Denmark,2011,30.282
+Denmark,2012,30.358
+Denmark,2013,29.29333333
+Denmark,2014,31.15
+Denmark,2015,27.29
+Denmark,2016,26.9
+Denmark,2017,27.6
+Denmark,2018,27.8
+Djibouti,1996,44.8
+Djibouti,2002,40
+Djibouti,2012,45.13
+Djibouti,2013,44.13
+Djibouti,2017,41.59
+Dominica,2008,44.4
+Dominican Republic,1969,47.4
+Dominican Republic,1976,45
+Dominican Republic,1984,43
+Dominican Republic,1986,47.78
+Dominican Republic,1989,50.38
+Dominican Republic,1992,51.36
+Dominican Republic,1995,50.4
+Dominican Republic,1996,47.0825
+Dominican Republic,1997,48.04
+Dominican Republic,1998,47.55
+Dominican Republic,2000,51.155
+Dominican Republic,2001,49.625
+Dominican Republic,2002,49.37
+Dominican Republic,2003,51.1825
+Dominican Republic,2004,51.09
+Dominican Republic,2005,49.5925
+Dominican Republic,2006,51.615
+Dominican Republic,2007,49.136
+Dominican Republic,2008,47.5525
+Dominican Republic,2009,48.345
+Dominican Republic,2010,46.8575
+Dominican Republic,2011,47.2025
+Dominican Republic,2012,45.5325
+Dominican Republic,2013,46.965
+Dominican Republic,2014,43.87
+Dominican Republic,2015,44.595
+Dominican Republic,2016,44.33
+Dominican Republic,2017,44.1
+Dominican Republic,2018,44.4
+Ecuador,1965,67.8
+Ecuador,1968,43.825
+Ecuador,1970,65.4
+Ecuador,1987,47.495
+Ecuador,1988,43.9
+Ecuador,1990,46.1
+Ecuador,1994,51.874
+Ecuador,1995,52.93857143
+Ecuador,1997,46.9
+Ecuador,1998,53.04
+Ecuador,1999,56.6
+Ecuador,2000,54.81333333
+Ecuador,2001,53.8
+Ecuador,2003,54.44
+Ecuador,2004,52.97666667
+Ecuador,2005,52.2975
+Ecuador,2006,51.59833333
+Ecuador,2007,52.725
+Ecuador,2008,49.1325
+Ecuador,2009,47.7875
+Ecuador,2010,48.1825
+Ecuador,2011,45.79666667
+Ecuador,2012,45.6775
+Ecuador,2013,46.29
+Ecuador,2014,44.3225
+Ecuador,2015,45.3875
+Ecuador,2016,44.405
+Ecuador,2017,43.9675
+Ecuador,2018,45.4
+Egypt,1959,37.31666667
+Egypt,1965,36.68
+Egypt,1975,35.375
+Egypt,1981,35.5
+Egypt,1991,32
+Egypt,1996,39.47666667
+Egypt,2000,34.82
+Egypt,2005,31.925
+Egypt,2009,29.92
+Egypt,2011,30.118
+Egypt,2013,40.8225
+Egypt,2015,31.56
+El Salvador,1961,51.625
+El Salvador,1965,47.7
+El Salvador,1966,53.9
+El Salvador,1969,46.5
+El Salvador,1977,44.2
+El Salvador,1990,44.8
+El Salvador,1991,50.9875
+El Salvador,1994,50.33333333
+El Salvador,1995,48.085
+El Salvador,1996,50.98
+El Salvador,1997,48.98
+El Salvador,1998,55.21
+El Salvador,1999,50.18
+El Salvador,2000,50.077
+El Salvador,2001,50.7925
+El Salvador,2002,50.9925
+El Salvador,2003,50.265
+El Salvador,2004,47.305
+El Salvador,2005,48.3975
+El Salvador,2006,45.5725
+El Salvador,2007,45.13
+El Salvador,2008,46.23
+El Salvador,2009,45.8075
+El Salvador,2010,43.4525
+El Salvador,2011,42.324
+El Salvador,2012,41.7575
+El Salvador,2013,43.365
+El Salvador,2014,41.515
+El Salvador,2015,40.5375
+El Salvador,2016,39.995
+El Salvador,2017,37.9425
+El Salvador,2018,40.5
+Equatorial Guinea,2006,50.2
+Eritrea,1997,0
+Estonia,1981,25.1
+Estonia,1986,26.7
+Estonia,1988,27.8
+Estonia,1989,27.73333333
+Estonia,1990,24
+Estonia,1992,35.8
+Estonia,1993,36.125
+Estonia,1994,39
+Estonia,1995,34.852
+Estonia,1996,36.5
+Estonia,1997,35.175
+Estonia,1998,36.888
+Estonia,1999,37.46666667
+Estonia,2000,36.66444444
+Estonia,2001,37.0775
+Estonia,2002,36.6725
+Estonia,2003,36.9525
+Estonia,2004,37.3675
+Estonia,2005,37.13
+Estonia,2006,37.1925
+Estonia,2007,33.88
+Estonia,2008,35.005
+Estonia,2009,35.41
+Estonia,2010,34.63333333
+Estonia,2011,36.2725
+Estonia,2012,36.6025
+Estonia,2013,37.56857143
+Estonia,2014,38.218
+Estonia,2015,36.554
+Estonia,2016,32.05
+Estonia,2017,31.6
+Estonia,2018,30.6
+Eswatini,1974,63.7
+Eswatini,1995,60.45
+Eswatini,2001,53.11
+Eswatini,2010,51.45
+Ethiopia,1982,32.42
+Ethiopia,1996,34.94333333
+Ethiopia,1997,45
+Ethiopia,2000,30.495
+Ethiopia,2005,32.4525
+Ethiopia,2011,31.645
+Ethiopia,2016,33.4975
+Fiji,1968,44.4
+Fiji,1972,42.3
+Fiji,1977,42.5
+Fiji,1991,49.66666667
+Fiji,2003,40.8325
+Fiji,2009,41.9725
+Fiji,2014,41.84875
+Finland,1952,41
+Finland,1962,46.66666667
+Finland,1966,34.4
+Finland,1971,31.475
+Finland,1976,26.75
+Finland,1977,30.5
+Finland,1981,26.2
+Finland,1985,21.2
+Finland,1986,29.8
+Finland,1987,27.50909091
+Finland,1988,28.8
+Finland,1989,29.23333333
+Finland,1990,28.02857143
+Finland,1991,26.83846154
+Finland,1992,28.75714286
+Finland,1993,30.21428571
+Finland,1994,30.44285714
+Finland,1995,28.8
+Finland,1996,30.1375
+Finland,1997,30.9375
+Finland,1998,31.4125
+Finland,1999,32.3375
+Finland,2000,31.30833333
+Finland,2001,32.85
+Finland,2002,32.4875
+Finland,2003,32.535
+Finland,2004,30.74333333
+Finland,2005,31.824
+Finland,2006,32.14
+Finland,2007,30.84222222
+Finland,2008,31.668
+Finland,2009,31.43
+Finland,2010,30.52333333
+Finland,2011,31.788
+Finland,2012,31.638
+Finland,2013,30.44333333
+Finland,2014,31.596
+Finland,2015,32
+Finland,2016,25.65
+Finland,2017,25.95
+Finland,2018,25.9
+France,1956,48
+France,1962,50.75
+France,1965,47
+France,1970,39.8
+France,1975,36.85
+France,1978,33.13333333
+France,1979,35.56666667
+France,1984,35.10909091
+France,1989,31.88333333
+France,1990,28
+France,1994,31.2
+France,1995,29
+France,1996,34.66666667
+France,1997,27.93333333
+France,1998,27.8
+France,1999,28.13333333
+France,2000,34.11111111
+France,2001,27.85
+France,2002,27.7
+France,2003,28.87
+France,2004,29.05
+France,2005,32.613
+France,2006,28.76333333
+France,2007,29.41
+France,2008,35.0975
+France,2009,35.29
+France,2010,33.192
+France,2011,36.5475
+France,2012,35.882
+France,2013,34.882
+France,2014,34.932
+France,2015,35.2
+France,2016,29.2
+France,2017,29.3
+Gabon,1960,62.35
+Gabon,1968,60.6
+Gabon,1975,45.4
+Gabon,1977,52.275
+Gabon,2005,42.18
+Gabon,2017,38.02
+"Gambia, The",1992,57.65
+"Gambia, The",1993,64.05
+"Gambia, The",1994,64.3
+"Gambia, The",1998,48.52
+"Gambia, The",2004,45.5775
+"Gambia, The",2011,42.8725
+"Gambia, The",2016,35.92
+Georgia,1981,24.8
+Georgia,1986,26.7
+Georgia,1988,31.3
+Georgia,1989,28.75
+Georgia,1990,29.1
+Georgia,1992,36.9
+Georgia,1993,40
+Georgia,1996,37.13
+Georgia,1997,45.025
+Georgia,1998,45.775
+Georgia,1999,40.15
+Georgia,2000,40.48
+Georgia,2001,42.685
+Georgia,2002,41.325
+Georgia,2003,36.66
+Georgia,2004,36.18
+Georgia,2005,37.38
+Georgia,2006,38.435
+Georgia,2007,39.555
+Georgia,2008,39.765
+Georgia,2009,40.12
+Georgia,2010,40.31
+Georgia,2011,40.81
+Georgia,2012,39.975
+Georgia,2013,37.278
+Georgia,2014,37.55
+Georgia,2015,36.5
+Georgia,2016,36.448
+Georgia,2017,37.94
+Germany,1936,49
+Germany,1950,42.3
+Germany,1955,44.7
+Germany,1960,43.5
+Germany,1962,37.2
+Germany,1964,38.475
+Germany,1967,19.9
+Germany,1968,38.65
+Germany,1969,32.45
+Germany,1970,33
+Germany,1973,30.58888889
+Germany,1974,34.25
+Germany,1975,36.6
+Germany,1978,29.3
+Germany,1980,36.6
+Germany,1981,27.45
+Germany,1983,28.05
+Germany,1984,30.83333333
+Germany,1985,32.06
+Germany,1986,28.9
+Germany,1987,28.21666667
+Germany,1988,30.95
+Germany,1989,29.5
+Germany,1990,28.25
+Germany,1991,28.1675
+Germany,1992,25.8
+Germany,1993,28.2375
+Germany,1994,29.11444444
+Germany,1995,30.71090909
+Germany,1996,27.68
+Germany,1997,28.51428571
+Germany,1998,28.213
+Germany,1999,27.12
+Germany,2000,30.17636364
+Germany,2001,29.451
+Germany,2002,30.214
+Germany,2003,30.237
+Germany,2004,32.10363636
+Germany,2005,31.67142857
+Germany,2006,31.13142857
+Germany,2007,31.79
+Germany,2008,33.72333333
+Germany,2009,33.225
+Germany,2010,33.15625
+Germany,2011,33.66444444
+Germany,2012,34.0125
+Germany,2013,34.15
+Germany,2014,34.2625
+Germany,2015,32.06857143
+Germany,2016,29.45
+Germany,2017,29.1
+Germany,2018,31.1
+Ghana,1988,41.425
+Ghana,1989,42.395
+Ghana,1992,42.27
+Ghana,1993,33.8
+Ghana,1997,32.7
+Ghana,1999,40.07
+Ghana,2006,42.77
+Ghana,2013,42.37
+Ghana,2017,43.52
+Greece,1957,38
+Greece,1958,38.1
+Greece,1959,42
+Greece,1960,41.1
+Greece,1961,43.6
+Greece,1962,43.95
+Greece,1963,43.2
+Greece,1964,43.9
+Greece,1965,44.1
+Greece,1966,45.8
+Greece,1967,46.3
+Greece,1968,43.8
+Greece,1969,43.2
+Greece,1970,45.3
+Greece,1971,44.9
+Greece,1974,39.86666667
+Greece,1981,35.05
+Greece,1986,35.2
+Greece,1988,36.45
+Greece,1994,35.2
+Greece,1995,35.56666667
+Greece,1996,34
+Greece,1997,35
+Greece,1998,35
+Greece,1999,35.05
+Greece,2000,33.5
+Greece,2001,33
+Greece,2003,33.73
+Greece,2004,35.07
+Greece,2005,36.84
+Greece,2006,38.364
+Greece,2007,36.32777778
+Greece,2008,37.318
+Greece,2009,37.384
+Greece,2010,36.28888889
+Greece,2011,38.83
+Greece,2012,39.65
+Greece,2013,38.05888889
+Greece,2014,39.462
+Greece,2015,39.6
+Greece,2016,33.8
+Greece,2017,33.4
+Greece,2018,32.3
+Greenland,2002,33
+Greenland,2003,33.8
+Greenland,2004,33.5
+Greenland,2005,31.2
+Greenland,2006,32.6
+Greenland,2007,33.2
+Greenland,2008,32.6
+Greenland,2009,32.4
+Greenland,2010,33.2
+Greenland,2011,33.6
+Greenland,2012,33.6
+Greenland,2013,34.3
+Greenland,2014,34.3
+Greenland,2015,33.9
+Greenland,2016,33.9
+Greenland,2017,34.3
+Greenland,2018,35.4
+Grenada,1998,45
+Grenada,2008,36.6
+Guatemala,1948,47.6
+Guatemala,1966,30
+Guatemala,1979,45.2
+Guatemala,1987,56.232
+Guatemala,1989,56.22222222
+Guatemala,1998,52.38
+Guatemala,2000,55.84
+Guatemala,2002,54.9
+Guatemala,2003,52.6
+Guatemala,2004,49
+Guatemala,2006,50.767
+Guatemala,2010,54.85
+Guatemala,2011,49.3125
+Guatemala,2014,44.488
+Guinea,1991,57.67
+Guinea,1995,46.08
+Guinea,2003,43
+Guinea,2007,39.36
+Guinea,2012,33.73
+Guinea-Bissau,1991,56.1
+Guinea-Bissau,1993,43.61
+Guinea-Bissau,2002,35.57
+Guinea-Bissau,2010,50.66
+Guyana,1956,41.9
+Guyana,1993,52.8
+Guyana,1998,44.55
+Guyana,2006,35
+Haiti,1987,51.5
+Haiti,2000,50.9
+Haiti,2001,59.48
+Haiti,2012,50.945
+Honduras,1968,53.1625
+Honduras,1986,54.995
+Honduras,1989,56.94833333
+Honduras,1990,56.07
+Honduras,1991,50.58333333
+Honduras,1992,52.94125
+Honduras,1993,51.15666667
+Honduras,1994,53.83
+Honduras,1995,54.69857143
+Honduras,1996,53.684
+Honduras,1997,53.00375
+Honduras,1998,54.805
+Honduras,1999,52.835
+Honduras,2001,54.27
+Honduras,2002,54.97666667
+Honduras,2003,57.30666667
+Honduras,2004,57.2325
+Honduras,2005,58.3775
+Honduras,2006,56.88
+Honduras,2007,55.14
+Honduras,2008,54.83333333
+Honduras,2009,50.52
+Honduras,2010,52.3225
+Honduras,2011,55.5575
+Honduras,2012,55.43
+Honduras,2013,51.77
+Honduras,2014,49.2775
+Honduras,2015,48.42
+Honduras,2016,49.0375
+Honduras,2017,50.47
+Honduras,2018,48.1
+Hong Kong,1963,46.2
+Hong Kong,1966,48.13333333
+Hong Kong,1971,42.575
+Hong Kong,1973,39.8
+Hong Kong,1976,41.95
+Hong Kong,1980,37.3
+Hong Kong,1981,45.1
+Hong Kong,1986,42
+Hong Kong,1991,45
+Hong Kong,1996,52
+Hong Kong,2001,49.75
+Hong Kong,2006,50.4
+Hong Kong,2011,50.6
+Hong Kong,2016,48.275
+Hungary,1955,23.3
+Hungary,1958,20.5
+Hungary,1962,26.35
+Hungary,1964,20.9
+Hungary,1967,23.9
+Hungary,1969,24
+Hungary,1970,22.9
+Hungary,1972,23.1
+Hungary,1974,22.1
+Hungary,1976,21.9
+Hungary,1977,21.4
+Hungary,1978,21.4
+Hungary,1980,20.7
+Hungary,1982,20.7
+Hungary,1984,21.3
+Hungary,1986,22.1
+Hungary,1987,22.68
+Hungary,1988,26.8
+Hungary,1989,24.97
+Hungary,1990,29.2
+Hungary,1991,28.5
+Hungary,1992,30.275
+Hungary,1993,27.97714286
+Hungary,1994,29.34285714
+Hungary,1995,26.8
+Hungary,1996,27
+Hungary,1997,29.24
+Hungary,1998,26.59333333
+Hungary,1999,28.46285714
+Hungary,2000,27.105
+Hungary,2001,29.43
+Hungary,2002,25.84666667
+Hungary,2003,29.34333333
+Hungary,2004,29.09333333
+Hungary,2005,29.25666667
+Hungary,2006,29.19
+Hungary,2007,29.39333333
+Hungary,2008,26.355
+Hungary,2009,29.7325
+Hungary,2010,26.77
+Hungary,2011,28.03
+Hungary,2012,31.6125
+Hungary,2013,29.9
+Hungary,2014,33.455
+Hungary,2015,27.635
+Hungary,2016,28.2
+Hungary,2017,28.1
+Hungary,2018,28.7
+Iceland,2003,26.83
+Iceland,2004,28.49777778
+Iceland,2005,29.88
+Iceland,2006,31.088
+Iceland,2007,30.43
+Iceland,2008,32.078
+Iceland,2009,30.472
+Iceland,2010,28.33
+Iceland,2011,29.126
+Iceland,2012,29.014
+Iceland,2013,27.98
+Iceland,2014,28.54
+Iceland,2015,25.1
+Iceland,2016,24.1
+India,1951,36.23333333
+India,1952,36.1
+India,1953,35.78571429
+India,1954,39.0875
+India,1955,37.52222222
+India,1956,36.3375
+India,1957,36.45714286
+India,1958,35.23333333
+India,1959,34.98333333
+India,1960,41.05
+India,1961,33.73333333
+India,1962,37.175
+India,1963,37.14285714
+India,1964,39.62857143
+India,1965,37.05
+India,1966,31.83333333
+India,1967,31.36666667
+India,1968,41
+India,1969,32.4
+India,1970,31.3
+India,1973,32.43333333
+India,1974,29.5
+India,1975,41.7
+India,1977,32.56666667
+India,1978,34.97
+India,1983,30.14428571
+India,1986,33.06666667
+India,1987,31.8
+India,1988,32.275
+India,1989,31.43333333
+India,1990,30.46666667
+India,1991,33.46666667
+India,1992,32.46666667
+India,1993,31.45
+India,1994,30.50875
+India,1995,31.95
+India,1997,33.55
+India,1999,30.9
+India,2005,40.02785714
+India,2010,33.35333333
+India,2012,39.334375
+Indonesia,1964,36.1
+Indonesia,1967,32.7
+Indonesia,1970,32.65
+Indonesia,1971,46.3
+Indonesia,1976,37.35
+Indonesia,1977,51
+Indonesia,1978,36.35
+Indonesia,1980,33.6
+Indonesia,1981,31.65
+Indonesia,1984,31.16
+Indonesia,1987,30.18
+Indonesia,1990,30.55333333
+Indonesia,1993,31.05166667
+Indonesia,1996,33.09166667
+Indonesia,1998,30.17333333
+Indonesia,1999,29.66
+Indonesia,2000,28.09666667
+Indonesia,2001,28.21333333
+Indonesia,2002,31.688
+Indonesia,2003,30.805
+Indonesia,2004,31.3825
+Indonesia,2005,32.765
+Indonesia,2006,32.92
+Indonesia,2007,34.71
+Indonesia,2008,34.2025
+Indonesia,2009,34.6925
+Indonesia,2010,36.0275
+Indonesia,2011,38.7525
+Indonesia,2012,39.08333333
+Indonesia,2013,38.925
+Indonesia,2014,38.865
+Indonesia,2015,39.0175
+Indonesia,2016,37.915
+Indonesia,2017,37.4775
+Iran,1959,49.65
+Iran,1968,50.2
+Iran,1969,41.55
+Iran,1970,43.275
+Iran,1971,46.14
+Iran,1972,42.1
+Iran,1973,49.5
+Iran,1974,46
+Iran,1984,42.9
+Iran,1986,47.42
+Iran,1990,43.6
+Iran,1994,43
+Iran,1998,44.1
+Iran,2005,43.56
+Iran,2006,44.75
+Iran,2009,42.05
+Iran,2013,37.36
+Iran,2014,38.78
+Iran,2015,39.47
+Iran,2016,39.97
+Iraq,1956,59.9
+Iraq,2004,38.3
+Iraq,2007,31.85
+Iraq,2012,33.12
+Ireland,1973,35.75
+Ireland,1980,37.33333333
+Ireland,1987,38.125
+Ireland,1994,35.66666667
+Ireland,1995,34.83333333
+Ireland,1996,34
+Ireland,1997,33
+Ireland,1998,34
+Ireland,1999,32
+Ireland,2000,31.53333333
+Ireland,2001,29
+Ireland,2003,31.745
+Ireland,2004,36.50111111
+Ireland,2005,37.23
+Ireland,2006,36.786
+Ireland,2007,34.88333333
+Ireland,2008,35.84
+Ireland,2009,37.656
+Ireland,2010,35.98888889
+Ireland,2011,37.374
+Ireland,2012,38.084
+Ireland,2013,38.078
+Ireland,2014,36.854
+Ireland,2015,30.40666667
+Ireland,2016,30.25
+Ireland,2017,30.6
+Israel,1944,28.5
+Israel,1950,23.4
+Israel,1954,29.6
+Israel,1957,29.55
+Israel,1958,35.7
+Israel,1961,37.1
+Israel,1963,31.35
+Israel,1969,38.4
+Israel,1976,36.4
+Israel,1979,35.846
+Israel,1985,39.9
+Israel,1986,36.678
+Israel,1987,48.2
+Israel,1990,40.25
+Israel,1992,36.01222222
+Israel,1995,44.56666667
+Israel,1997,38.6
+Israel,2000,42.55
+Israel,2001,38.46571429
+Israel,2005,41.28333333
+Israel,2007,39.87571429
+Israel,2008,43.45
+Israel,2009,43.6
+Israel,2010,41.47333333
+Israel,2011,42.76666667
+Israel,2012,39.70625
+Israel,2013,40.66666667
+Israel,2014,38.5825
+Israel,2015,40.46666667
+Israel,2016,37.76875
+Israel,2017,34.4
+Italy,1948,39.96666667
+Italy,1967,40
+Italy,1968,40
+Italy,1969,39.9
+Italy,1970,38
+Italy,1971,40
+Italy,1972,38
+Italy,1973,42
+Italy,1974,41
+Italy,1975,39
+Italy,1976,35
+Italy,1977,36
+Italy,1978,36
+Italy,1979,37
+Italy,1980,37
+Italy,1981,32
+Italy,1982,31
+Italy,1984,33.9
+Italy,1986,31.975
+Italy,1987,32.85714286
+Italy,1989,30.5
+Italy,1991,30.47272727
+Italy,1993,33.15714286
+Italy,1995,36.0625
+Italy,1996,32
+Italy,1997,31
+Italy,1998,33.4875
+Italy,1999,30
+Italy,2000,33.52
+Italy,2001,29
+Italy,2002,35.26666667
+Italy,2003,34.93
+Italy,2004,33.91
+Italy,2005,35.626
+Italy,2006,36.82
+Italy,2007,36.018
+Italy,2008,33.27444444
+Italy,2009,36.406
+Italy,2010,34.10222222
+Italy,2011,37.552
+Italy,2012,37.77
+Italy,2013,37.682
+Italy,2014,34.97333333
+Italy,2015,33.9
+Italy,2016,32.95
+Italy,2017,32.7
+Italy,2018,33.4
+Jamaica,1958,55.2
+Jamaica,1968,62.8
+Jamaica,1973,65.1
+Jamaica,1975,44.5
+Jamaica,1980,65.5
+Jamaica,1988,45.95333333
+Jamaica,1989,42.75
+Jamaica,1990,43.10333333
+Jamaica,1991,40.07333333
+Jamaica,1992,42.645
+Jamaica,1993,41.522
+Jamaica,1994,38.27
+Jamaica,1995,41.8625
+Jamaica,1996,37.43333333
+Jamaica,1997,45.4075
+Jamaica,1998,41.6975
+Jamaica,1999,39.87
+Jamaica,2000,38.785
+Jamaica,2001,38.76
+Jamaica,2002,43.34666667
+Jamaica,2003,38.585
+Jamaica,2004,40.92
+Jamaica,2005,38.495
+Jamaica,2006,37.39
+Jamaica,2007,36.765
+Jamaica,2008,37.365
+Jamaica,2009,37.24
+Jamaica,2010,38.77
+Jamaica,2012,38.71
+Jamaica,2013,40.455
+Jamaica,2014,37.115
+Jamaica,2015,37.46
+Jamaica,2016,34.92
+Jamaica,2017,37.48
+Japan,1890,31.1
+Japan,1900,41.7
+Japan,1910,42
+Japan,1920,46.3
+Japan,1930,45.1
+Japan,1940,46.7
+Japan,1954,31
+Japan,1956,31.3
+Japan,1959,35.7
+Japan,1962,39.16666667
+Japan,1963,33.7
+Japan,1964,35.8
+Japan,1965,36.86666667
+Japan,1967,35.1
+Japan,1968,37.4
+Japan,1969,33.65
+Japan,1970,35.5
+Japan,1971,37.125
+Japan,1972,32.25
+Japan,1973,32.5
+Japan,1974,33.6
+Japan,1975,34.4
+Japan,1976,33.9
+Japan,1977,33.7
+Japan,1978,32.9
+Japan,1979,33.9
+Japan,1980,27.65
+Japan,1981,31.05
+Japan,1982,31.6
+Japan,1983,28.1
+Japan,1984,27.8
+Japan,1985,32.25
+Japan,1986,29.55
+Japan,1989,31.2
+Japan,1990,35
+Japan,1992,31.1
+Japan,1993,24.9
+Japan,1995,34.73333333
+Japan,1997,30.3
+Japan,1998,31.9
+Japan,2000,38.45
+Japan,2003,38.2
+Japan,2004,35.10259259
+Japan,2006,39.55
+Japan,2009,35.52657407
+Japan,2012,39
+Japan,2014,35.10259259
+Japan,2015,33.9
+Jordan,1973,37.63333333
+Jordan,1980,37.5
+Jordan,1981,32.3
+Jordan,1982,30.95
+Jordan,1987,35.71777778
+Jordan,1992,42.932
+Jordan,1997,37.07333333
+Jordan,2003,36.225
+Jordan,2007,34.83
+Jordan,2009,33.285
+Jordan,2011,35.82
+Jordan,2013,33.1
+Kazakhstan,1981,25.7
+Kazakhstan,1986,27.3
+Kazakhstan,1988,29.1
+Kazakhstan,1989,28.2
+Kazakhstan,1990,29.7
+Kazakhstan,1993,32.67
+Kazakhstan,1996,45.89
+Kazakhstan,2001,35.96
+Kazakhstan,2002,34.81
+Kazakhstan,2003,34.795
+Kazakhstan,2004,34.42
+Kazakhstan,2005,40.915
+Kazakhstan,2006,35.82
+Kazakhstan,2007,30.49
+Kazakhstan,2008,28.65
+Kazakhstan,2009,27.455
+Kazakhstan,2010,27.875
+Kazakhstan,2011,28.44
+Kazakhstan,2012,28.17
+Kazakhstan,2013,27.07
+Kazakhstan,2014,27.02
+Kazakhstan,2015,26.8
+Kazakhstan,2016,27.23
+Kazakhstan,2017,27.45
+Kenya,1914,50
+Kenya,1921,57
+Kenya,1927,58
+Kenya,1936,63
+Kenya,1946,64
+Kenya,1950,70
+Kenya,1955,63
+Kenya,1960,68
+Kenya,1961,48.8
+Kenya,1964,63
+Kenya,1967,66
+Kenya,1969,60
+Kenya,1971,70
+Kenya,1974,69
+Kenya,1976,60
+Kenya,1977,59
+Kenya,1982,57.3
+Kenya,1992,57.46
+Kenya,1994,43.11
+Kenya,1997,44.98
+Kenya,1999,59.75
+Kenya,2006,43.7625
+Kenya,2016,40.78
+Kiribati,2006,36.97
+"Korea, Republic of",1953,34
+"Korea, Republic of",1961,32
+"Korea, Republic of",1964,33
+"Korea, Republic of",1965,36.21666667
+"Korea, Republic of",1966,29.92
+"Korea, Republic of",1968,30.5
+"Korea, Republic of",1969,29.8
+"Korea, Republic of",1970,35.26923077
+"Korea, Republic of",1971,33.6
+"Korea, Republic of",1972,40.2
+"Korea, Republic of",1976,38.91428571
+"Korea, Republic of",1980,37.825
+"Korea, Republic of",1982,35.73333333
+"Korea, Republic of",1984,35.4
+"Korea, Republic of",1985,33.7
+"Korea, Republic of",1988,32.25
+"Korea, Republic of",1992,34.95
+"Korea, Republic of",1993,32.5
+"Korea, Republic of",1995,33.6
+"Korea, Republic of",1996,32.8
+"Korea, Republic of",1997,31.75
+"Korea, Republic of",1998,37.35
+"Korea, Republic of",2004,31.6
+"Korea, Republic of",2006,30.44444444
+"Korea, Republic of",2007,32.6
+"Korea, Republic of",2008,31.03555556
+"Korea, Republic of",2009,32.95
+"Korea, Republic of",2010,30.72444444
+"Korea, Republic of",2011,32.65
+"Korea, Republic of",2012,30.30666667
+"Korea, Republic of",2013,31.9
+"Korea, Republic of",2014,32.15
+"Korea, Republic of",2015,31.8
+"Korea, Republic of",2017,35.5
+Kosovo,2003,28.95
+Kosovo,2005,31.24
+Kosovo,2006,30.32
+Kosovo,2009,31.78
+Kosovo,2010,33.25
+Kosovo,2011,27.83
+Kosovo,2012,28.97
+Kosovo,2013,26.31
+Kosovo,2014,27.27
+Kosovo,2015,26.45
+Kosovo,2016,26.72
+Kosovo,2017,29.01
+Kuwait,1973,44.68666667
+Kuwait,1987,34.68
+Kuwait,1998,32
+Kuwait,2000,36.02
+Kyrgyzstan,1981,24.3
+Kyrgyzstan,1986,25.9
+Kyrgyzstan,1988,28.6
+Kyrgyzstan,1989,27.23333333
+Kyrgyzstan,1990,30.8
+Kyrgyzstan,1992,30
+Kyrgyzstan,1993,47.5
+Kyrgyzstan,1994,44.3
+Kyrgyzstan,1995,39.5
+Kyrgyzstan,1996,46.73333333
+Kyrgyzstan,1997,39
+Kyrgyzstan,1998,42.4
+Kyrgyzstan,1999,44.825
+Kyrgyzstan,2000,39.81333333
+Kyrgyzstan,2001,39.68666667
+Kyrgyzstan,2002,39.16666667
+Kyrgyzstan,2003,36.90333333
+Kyrgyzstan,2004,40.02333333
+Kyrgyzstan,2005,39.78666667
+Kyrgyzstan,2006,41.02666667
+Kyrgyzstan,2007,33.91
+Kyrgyzstan,2008,31.45
+Kyrgyzstan,2009,29.87
+Kyrgyzstan,2010,30.13
+Kyrgyzstan,2011,27.84
+Kyrgyzstan,2012,27.36
+Kyrgyzstan,2013,28.82
+Kyrgyzstan,2014,26.82
+Kyrgyzstan,2015,29
+Kyrgyzstan,2016,26.78
+Kyrgyzstan,2017,27.34
+Laos,1993,34.31
+Laos,1998,34.9
+Laos,2003,32.62
+Laos,2008,35.36
+Laos,2013,36.39
+Latvia,1981,24.8
+Latvia,1986,25.2
+Latvia,1988,23.75
+Latvia,1989,25.93333333
+Latvia,1990,24
+Latvia,1991,24.7
+Latvia,1992,33.3
+Latvia,1993,27.645
+Latvia,1994,32.5
+Latvia,1995,32.19333333
+Latvia,1996,31.58
+Latvia,1997,34.738
+Latvia,1998,34.365
+Latvia,1999,33.15
+Latvia,2000,33.46666667
+Latvia,2001,32.2
+Latvia,2002,34.56333333
+Latvia,2003,35.87666667
+Latvia,2004,37.89285714
+Latvia,2005,40.876
+Latvia,2006,38.58
+Latvia,2007,38.885
+Latvia,2008,39.38833333
+Latvia,2009,38.79666667
+Latvia,2010,39.166
+Latvia,2011,39.234
+Latvia,2012,38.868
+Latvia,2013,38.78
+Latvia,2014,38.422
+Latvia,2015,37.86
+Latvia,2016,34.55
+Latvia,2017,34.5
+Latvia,2018,35.6
+Lebanon,1960,52.73333333
+Lebanon,1995,43.5
+Lebanon,2004,37
+Lebanon,2012,31.83
+Lesotho,1987,60.00666667
+Lesotho,1993,56.63333333
+Lesotho,1995,65.87
+Lesotho,1999,60
+Lesotho,2003,51.57
+Lesotho,2010,54.18
+Liberia,1974,43
+Liberia,2007,36.48
+Liberia,2014,33.24
+Liberia,2016,35.27
+Libya,2003,30.7
+Libya,2008,30.2
+Lithuania,1981,24.4
+Lithuania,1986,23.7
+Lithuania,1988,24.4
+Lithuania,1989,26.7
+Lithuania,1990,24.8
+Lithuania,1992,37.2
+Lithuania,1993,33.64
+Lithuania,1994,37.1
+Lithuania,1995,35.35
+Lithuania,1996,34.415
+Lithuania,1997,33.03333333
+Lithuania,1998,33.66666667
+Lithuania,1999,34.37333333
+Lithuania,2000,32.72333333
+Lithuania,2001,34.1525
+Lithuania,2002,35.54
+Lithuania,2003,35.52
+Lithuania,2004,38.14571429
+Lithuania,2005,39.26
+Lithuania,2006,37.084
+Lithuania,2007,37.18
+Lithuania,2008,38.565
+Lithuania,2009,40.404
+Lithuania,2010,36.43555556
+Lithuania,2011,36.738
+Lithuania,2012,38.5
+Lithuania,2013,37.37888889
+Lithuania,2014,40.856
+Lithuania,2015,40.574
+Lithuania,2016,37.4
+Lithuania,2017,37.6
+Lithuania,2018,36.9
+Luxembourg,1985,27.56
+Luxembourg,1986,20.65
+Luxembourg,1991,25.35
+Luxembourg,1994,25.2
+Luxembourg,1995,29
+Luxembourg,1996,26.95
+Luxembourg,1997,27.06666667
+Luxembourg,1998,26
+Luxembourg,1999,27
+Luxembourg,2000,27.53333333
+Luxembourg,2001,26.55
+Luxembourg,2003,28.895
+Luxembourg,2004,31.33
+Luxembourg,2005,32.648
+Luxembourg,2006,32.79
+Luxembourg,2007,31.93666667
+Luxembourg,2008,34.092
+Luxembourg,2009,33.5
+Luxembourg,2010,31.66666667
+Luxembourg,2011,33.31
+Luxembourg,2012,35.108
+Luxembourg,2013,33.22666667
+Luxembourg,2014,33.552
+Luxembourg,2015,31.145
+Luxembourg,2016,30.7
+Luxembourg,2017,30.9
+Madagascar,1960,51.73333333
+Madagascar,1962,39.1
+Madagascar,1980,47.55
+Madagascar,1994,52.38
+Madagascar,1997,39.47
+Madagascar,1999,38.61
+Madagascar,2001,46.37
+Madagascar,2005,40.47
+Madagascar,2010,40.86
+Madagascar,2012,42.65
+Malawi,1969,46.1
+Malawi,1977,51.8
+Malawi,1983,56.7
+Malawi,1985,59.9
+Malawi,1993,62
+Malawi,1998,65.76
+Malawi,2005,39.87
+Malawi,2006,40.33333333
+Malawi,2011,44.32
+Malawi,2017,44.69
+Malaysia,1958,37
+Malaysia,1960,57.2
+Malaysia,1968,51.35
+Malaysia,1970,49.74545455
+Malaysia,1976,53
+Malaysia,1979,51
+Malaysia,1984,48.20666667
+Malaysia,1987,47.04
+Malaysia,1989,46.17
+Malaysia,1990,44.2
+Malaysia,1992,47.65
+Malaysia,1995,48.52
+Malaysia,1997,48.68333333
+Malaysia,1999,44.3
+Malaysia,2004,43.175
+Malaysia,2007,46.05
+Malaysia,2009,45.48
+Malaysia,2011,43.94
+Malaysia,2012,41
+Malaysia,2013,41.35
+Malaysia,2014,38.23333333
+Malaysia,2016,41.04
+Maldives,2003,39.3275
+Maldives,2010,37.3425
+Mali,1989,36.5
+Mali,1994,64.52
+Mali,2002,39.87
+Mali,2006,38.93
+Mali,2010,33.04
+Malta,2000,30
+Malta,2005,27
+Malta,2006,27.56
+Malta,2007,27.77
+Malta,2008,28.56
+Malta,2009,28.825
+Malta,2010,28.815
+Malta,2011,28.17
+Malta,2012,28.23
+Malta,2013,28.42
+Malta,2014,28.345
+Malta,2015,28.76
+Malta,2016,28.6
+Malta,2017,28.2
+Malta,2018,28.7
+Mauritania,1987,56.31333333
+Mauritania,1989,57
+Mauritania,1993,51.98333333
+Mauritania,1996,37.75
+Mauritania,2000,39.03
+Mauritania,2004,40.17
+Mauritania,2008,36.845
+Mauritania,2014,32.62
+Mauritius,1975,41.9
+Mauritius,1980,45.7
+Mauritius,1986,39.8
+Mauritius,1991,37.45
+Mauritius,1996,38.7
+Mauritius,2001,37.1
+Mauritius,2007,38.05060606
+Mauritius,2012,38.47
+Mexico,1950,52.6
+Mexico,1956,40.3
+Mexico,1957,55.1
+Mexico,1958,53
+Mexico,1963,52.40714286
+Mexico,1968,56
+Mexico,1969,57.35
+Mexico,1970,51.9
+Mexico,1975,56.8
+Mexico,1977,48.96666667
+Mexico,1984,45.18636364
+Mexico,1989,49.58285714
+Mexico,1992,50.97857143
+Mexico,1994,51.06470588
+Mexico,1996,50.43235294
+Mexico,1998,50.83307692
+Mexico,2000,51.51307692
+Mexico,2002,48.821
+Mexico,2004,48.19
+Mexico,2005,49.172
+Mexico,2006,48.18666667
+Mexico,2008,47.423
+Mexico,2010,46.96583333
+Mexico,2012,46.9375
+Mexico,2014,47.64428571
+Mexico,2016,47.05666667
+Mexico,2018,47.5
+"Micronesia, Federated States of",2000,63.26
+"Micronesia, Federated States of",2005,42.36
+"Micronesia, Federated States of",2013,40.06
+Moldova,1981,22.9
+Moldova,1986,24.8
+Moldova,1988,25.25
+Moldova,1989,25.3
+Moldova,1990,26.7
+Moldova,1992,41.1
+Moldova,1993,40.1
+Moldova,1994,37.9
+Moldova,1995,39
+Moldova,1996,41.4
+Moldova,1997,41.81333333
+Moldova,1998,41.06
+Moldova,1999,43.36
+Moldova,2000,39.77666667
+Moldova,2001,40.19666667
+Moldova,2002,40.68333333
+Moldova,2003,37.73333333
+Moldova,2004,37.14333333
+Moldova,2005,38.99333333
+Moldova,2006,35.53333333
+Moldova,2007,34.42
+Moldova,2008,34.69
+Moldova,2009,32.91
+Moldova,2010,32.05
+Moldova,2011,30.63
+Moldova,2012,29.16
+Moldova,2013,28.53
+Moldova,2014,26.83
+Moldova,2015,27.03
+Moldova,2016,26.35
+Moldova,2017,25.9
+Mongolia,1995,33.2
+Mongolia,1997,28.575
+Mongolia,1998,30.27
+Mongolia,2002,32.89
+Mongolia,2008,35.82
+Mongolia,2010,33.08
+Mongolia,2011,33.88
+Mongolia,2012,33.75
+Mongolia,2014,32.04
+Mongolia,2016,32.35
+Montenegro,2005,30.22
+Montenegro,2006,30.04
+Montenegro,2007,31.45
+Montenegro,2008,30.49
+Montenegro,2009,31.01
+Montenegro,2010,28.89
+Montenegro,2011,30.82
+Montenegro,2012,32.27
+Montenegro,2013,32.44
+Montenegro,2014,31.93
+Morocco,1955,48.6
+Morocco,1960,50
+Morocco,1965,50
+Morocco,1969,56
+Morocco,1970,54.5
+Morocco,1975,59
+Morocco,1980,52.4
+Morocco,1985,37.13
+Morocco,1991,36.2
+Morocco,1995,35.6
+Morocco,1999,39.46
+Morocco,2001,40.64
+Morocco,2007,38.93
+Morocco,2014,39.55
+Mozambique,1997,43.26
+Mozambique,2003,44.15666667
+Mozambique,2009,43.21333333
+Mozambique,2015,49.41666667
+Myanmar,1958,34.96666667
+Myanmar,2005,35.7425
+Myanmar,2010,35.7425
+Myanmar,2015,38.07
+Namibia,1994,72.2
+Namibia,2004,61.66
+Namibia,2010,61.20083333
+Namibia,2016,59.33416667
+Nauru,2013,0
+Nepal,1977,53
+Nepal,1985,30.06
+Nepal,1996,42.855
+Nepal,2004,43.77
+Nepal,2011,32.84
+Netherlands,1938,48
+Netherlands,1946,48
+Netherlands,1950,43
+Netherlands,1952,45
+Netherlands,1962,43.33333333
+Netherlands,1967,40.15
+Netherlands,1973,32.1
+Netherlands,1977,30.2
+Netherlands,1981,27.53333333
+Netherlands,1983,28.68333333
+Netherlands,1985,31.2
+Netherlands,1987,28.2
+Netherlands,1988,29
+Netherlands,1989,29.6
+Netherlands,1990,31.7375
+Netherlands,1991,31.475
+Netherlands,1992,28.6
+Netherlands,1993,29.5
+Netherlands,1994,28.6
+Netherlands,1995,32.8
+Netherlands,1996,28.9
+Netherlands,1997,27.83333333
+Netherlands,1998,28.4
+Netherlands,1999,28
+Netherlands,2000,33.275
+Netherlands,2001,27
+Netherlands,2002,27
+Netherlands,2003,27
+Netherlands,2004,30.32
+Netherlands,2005,31.7375
+Netherlands,2006,31.71
+Netherlands,2007,31.82375
+Netherlands,2008,31.8
+Netherlands,2009,31.27
+Netherlands,2010,30.105
+Netherlands,2011,26.775
+Netherlands,2012,30.805
+Netherlands,2013,30.96666667
+Netherlands,2014,33.166
+Netherlands,2015,33.108
+Netherlands,2016,27.7
+Netherlands,2017,27.1
+Netherlands,2018,27
+New Zealand,1954,66.6
+New Zealand,1955,67.2
+New Zealand,1956,66.7
+New Zealand,1957,66.7
+New Zealand,1958,50.45
+New Zealand,1959,60.6
+New Zealand,1960,61
+New Zealand,1961,59.7
+New Zealand,1963,58.2
+New Zealand,1964,58.1
+New Zealand,1965,57.7
+New Zealand,1966,43.85
+New Zealand,1967,47.45
+New Zealand,1968,47.1
+New Zealand,1969,47.85
+New Zealand,1970,46.15
+New Zealand,1971,45.15
+New Zealand,1972,54.3
+New Zealand,1973,42.6
+New Zealand,1974,54.7
+New Zealand,1975,41.6
+New Zealand,1976,51.5
+New Zealand,1977,42.65
+New Zealand,1978,31.9
+New Zealand,1980,34.8
+New Zealand,1982,31.1
+New Zealand,1984,31.4
+New Zealand,1985,33.95
+New Zealand,1986,29.93333333
+New Zealand,1988,27.1
+New Zealand,1990,36.26666667
+New Zealand,1991,33.4
+New Zealand,1992,35.05
+New Zealand,1994,32.2
+New Zealand,1995,41.15
+New Zealand,1996,35.86666667
+New Zealand,1998,33
+New Zealand,2000,41.15
+New Zealand,2001,33.8
+New Zealand,2003,40.4
+New Zealand,2004,33.4
+New Zealand,2007,32.1
+New Zealand,2008,37.16666667
+New Zealand,2009,36.83333333
+New Zealand,2010,32.3
+New Zealand,2011,36.9
+New Zealand,2012,36.9
+New Zealand,2013,33.6
+New Zealand,2014,38.15
+New Zealand,2015,35
+New Zealand,2016,33.6
+New Zealand,2017,34.3
+New Zealand,2018,34.1
+Nicaragua,1993,54.752
+Nicaragua,1998,53.839
+Nicaragua,2001,51.192
+Nicaragua,2005,47.422
+Nicaragua,2009,43.96
+Nicaragua,2014,46.515
+Niger,1960,31.6
+Niger,1993,36.1
+Niger,1995,41.53
+Niger,2005,44.43
+Niger,2008,37.3
+Niger,2011,31.45
+Niger,2014,34.28
+Nigeria,1959,48.9
+Nigeria,1970,60.8
+Nigeria,1971,59.1
+Nigeria,1972,53.85
+Nigeria,1975,39.25
+Nigeria,1980,40.225
+Nigeria,1981,35.2
+Nigeria,1982,36.1
+Nigeria,1986,41.32
+Nigeria,1992,47.12
+Nigeria,1997,50.70666667
+Nigeria,2004,40.06
+Nigeria,2010,44.894
+North Macedonia,1989,32.2
+North Macedonia,1990,28.6
+North Macedonia,1991,26.7
+North Macedonia,1992,23.5
+North Macedonia,1993,27.2
+North Macedonia,1994,26.3
+North Macedonia,1995,28.25
+North Macedonia,1996,34.5
+North Macedonia,1997,31.625
+North Macedonia,1998,28.67666667
+North Macedonia,1999,29.25
+North Macedonia,2000,32.18666667
+North Macedonia,2001,31
+North Macedonia,2002,33.30333333
+North Macedonia,2003,35.56
+North Macedonia,2004,32.97666667
+North Macedonia,2005,36.43666667
+North Macedonia,2006,38.01333333
+North Macedonia,2007,34.65
+North Macedonia,2008,38.31333333
+North Macedonia,2009,42.76
+North Macedonia,2010,40.16
+North Macedonia,2011,39.37
+North Macedonia,2012,38.47
+North Macedonia,2013,36.62
+North Macedonia,2014,35.205
+North Macedonia,2015,34.645
+North Macedonia,2016,33.6
+North Macedonia,2017,32.4
+Norway,1957,40
+Norway,1963,35.66666667
+Norway,1970,30.6
+Norway,1973,34.8
+Norway,1976,31.9
+Norway,1979,28.28333333
+Norway,1982,33.06666667
+Norway,1984,37.8
+Norway,1985,32.13333333
+Norway,1986,27.84166667
+Norway,1987,31.76666667
+Norway,1988,29.66
+Norway,1989,31.1
+Norway,1990,31.12
+Norway,1991,27
+Norway,1992,28.03333333
+Norway,1993,24.5
+Norway,1994,29.73333333
+Norway,1995,28.76666667
+Norway,1996,31.7
+Norway,1997,31.95
+Norway,1998,31.1
+Norway,1999,31.15
+Norway,2000,31.0375
+Norway,2001,30.65
+Norway,2002,33.4
+Norway,2003,27.11
+Norway,2004,31.37333333
+Norway,2005,29.395
+Norway,2006,27.775
+Norway,2007,26.78166667
+Norway,2008,29.28
+Norway,2009,28.732
+Norway,2010,28.35777778
+Norway,2011,28.7
+Norway,2012,28.844
+Norway,2013,28.56222222
+Norway,2014,29.51
+Norway,2015,30.6
+Norway,2016,25
+Norway,2017,26.15
+Norway,2018,24.8
+Oman,2000,39.86
+Oman,2011,32.99
+Pakistan,1963,37.64285714
+Pakistan,1964,37.55
+Pakistan,1966,31.04444444
+Pakistan,1967,34.9
+Pakistan,1968,29.67777778
+Pakistan,1969,29.59090909
+Pakistan,1970,28.81818182
+Pakistan,1971,32.92
+Pakistan,1972,34
+Pakistan,1979,35.76
+Pakistan,1984,33.6625
+Pakistan,1985,33.975
+Pakistan,1986,33.7
+Pakistan,1987,31.3525
+Pakistan,1988,31.4
+Pakistan,1990,40.23333333
+Pakistan,1991,30.85
+Pakistan,1992,33.71428571
+Pakistan,1993,30.575
+Pakistan,1997,27.554
+Pakistan,1999,30.78
+Pakistan,2002,30.37
+Pakistan,2004,31.2
+Pakistan,2005,32.51
+Pakistan,2006,32.72
+Pakistan,2008,31.62
+Pakistan,2011,31.10866935
+Pakistan,2012,30.93
+Pakistan,2014,30.69
+Pakistan,2016,33.45
+Palau,2014,47
+Panama,1960,50
+Panama,1962,36.1
+Panama,1968,40.4
+Panama,1969,51.2
+Panama,1970,49.98333333
+Panama,1972,39.76666667
+Panama,1979,47.308
+Panama,1980,47.5
+Panama,1989,55.15125
+Panama,1991,54.68
+Panama,1994,53.7
+Panama,1995,54.61375
+Panama,1996,55.4
+Panama,1997,55.163
+Panama,1998,55.676
+Panama,1999,53.812
+Panama,2000,55.928
+Panama,2001,56.17
+Panama,2002,55.785
+Panama,2003,55.3925
+Panama,2004,54.57
+Panama,2005,53.4775
+Panama,2006,54.4375
+Panama,2007,51.81125
+Panama,2008,52.18166667
+Panama,2009,51.4425
+Panama,2010,50.54428571
+Panama,2011,51.2125
+Panama,2012,51.04666667
+Panama,2013,50.445
+Panama,2014,49.9675
+Panama,2015,50.4775
+Panama,2016,50.1025
+Panama,2017,49.575
+Panama,2018,49.8
+Papua New Guinea,1996,55.43
+Papua New Guinea,2010,41.85
+Paraguay,1983,45.1
+Paraguay,1990,40.988
+Paraguay,1992,45.8
+Paraguay,1994,49.7
+Paraguay,1995,54.52
+Paraguay,1996,49.3
+Paraguay,1997,54.19666667
+Paraguay,1999,54.68285714
+Paraguay,2000,55.55
+Paraguay,2001,54.4575
+Paraguay,2002,57.12
+Paraguay,2003,54.96
+Paraguay,2004,52.16
+Paraguay,2005,51.045
+Paraguay,2006,52.725
+Paraguay,2007,52.52333333
+Paraguay,2008,50.475
+Paraguay,2009,49.0875
+Paraguay,2010,51.63
+Paraguay,2011,52.3525
+Paraguay,2012,47.6575
+Paraguay,2013,48.34
+Paraguay,2014,51
+Paraguay,2015,47.8275
+Paraguay,2016,48.58333333
+Paraguay,2017,48.755
+Paraguay,2018,47.4
+Peru,1961,60.98
+Peru,1962,52
+Peru,1969,44.65
+Peru,1970,59.4
+Peru,1971,51.33333333
+Peru,1972,57
+Peru,1981,57
+Peru,1986,39.81
+Peru,1991,44.88888889
+Peru,1994,47.43142857
+Peru,1997,48.97846154
+Peru,1998,54.64666667
+Peru,1999,51.80666667
+Peru,2000,48.734
+Peru,2001,50.98
+Peru,2002,53.2725
+Peru,2003,51.96333333
+Peru,2004,50.328
+Peru,2005,50.4625
+Peru,2006,50.1325
+Peru,2007,49.163
+Peru,2008,47.5175
+Peru,2009,47.97
+Peru,2010,45.304
+Peru,2011,44.615
+Peru,2012,44.3375
+Peru,2013,43.519
+Peru,2014,43.0625
+Peru,2015,43.29
+Peru,2016,43.6375
+Peru,2017,43.2125
+Peru,2018,43.9
+Philippines,1957,47.2
+Philippines,1961,48.02857143
+Philippines,1965,48.78
+Philippines,1971,47.3
+Philippines,1975,45.3
+Philippines,1985,42.948
+Philippines,1988,43.31666667
+Philippines,1991,45.844
+Philippines,1994,44.93
+Philippines,1997,48.42
+Philippines,2000,46.21666667
+Philippines,2003,44.69
+Philippines,2006,45.03
+Philippines,2009,44.29
+Philippines,2012,44.355
+Philippines,2015,42.23
+Poland,1956,27
+Poland,1960,27.2
+Poland,1962,26.8
+Poland,1964,26.4
+Poland,1965,26
+Poland,1970,23.1
+Poland,1972,23.2
+Poland,1973,24
+Poland,1976,25.1
+Poland,1978,24.2
+Poland,1980,23.1
+Poland,1981,21.3
+Poland,1982,20.1
+Poland,1983,23.05
+Poland,1984,24.2
+Poland,1985,24.58666667
+Poland,1986,26.075
+Poland,1987,24.426
+Poland,1988,22.4
+Poland,1989,24.68625
+Poland,1990,26.3
+Poland,1991,25.7
+Poland,1992,28.56363636
+Poland,1993,28.18333333
+Poland,1994,30.2
+Poland,1995,32.44
+Poland,1996,32.315
+Poland,1997,32.7
+Poland,1998,31.755
+Poland,1999,31.618
+Poland,2000,32.49
+Poland,2001,32.31666667
+Poland,2002,34.675
+Poland,2003,35.255
+Poland,2004,38.37222222
+Poland,2005,37.45714286
+Poland,2006,35.78285714
+Poland,2007,34.411
+Poland,2008,34.93333333
+Poland,2009,34.52166667
+Poland,2010,33.673
+Poland,2011,34.17666667
+Poland,2012,33.90166667
+Poland,2013,33.329
+Poland,2014,33.86666667
+Poland,2015,33.22833333
+Poland,2016,29.74285714
+Poland,2017,29.2
+Poland,2018,27.8
+Portugal,1973,40.6
+Portugal,1980,35.35
+Portugal,1990,34.15
+Portugal,1991,35.6
+Portugal,1995,37
+Portugal,1996,36
+Portugal,1997,36
+Portugal,1998,37
+Portugal,1999,36
+Portugal,2000,36
+Portugal,2001,37
+Portugal,2003,38.74
+Portugal,2004,40.8
+Portugal,2005,40.534
+Portugal,2006,41.392
+Portugal,2007,40.35
+Portugal,2008,39.886
+Portugal,2009,38.622
+Portugal,2010,38.788
+Portugal,2011,39.268
+Portugal,2012,39.246
+Portugal,2013,39.998
+Portugal,2014,39.772
+Portugal,2015,39.344
+Portugal,2016,33.5
+Portugal,2017,33.5
+Portugal,2018,32.1
+Puerto Rico,1953,40.325
+Puerto Rico,1963,43.92222222
+Puerto Rico,1969,51.95
+Puerto Rico,1977,36.86666667
+Puerto Rico,1979,48.3
+Puerto Rico,1989,50.9
+Puerto Rico,1999,55.8
+Puerto Rico,2003,55.8
+Qatar,2007,34.15
+Qatar,2013,30.23333333
+Reunion,1977,51
+Romania,1989,22.10166667
+Romania,1990,22.8
+Romania,1991,23.62
+Romania,1992,26.15333333
+Romania,1993,24.06666667
+Romania,1994,28.78
+Romania,1995,30.2625
+Romania,1996,30.35
+Romania,1997,30.37777778
+Romania,1998,32.22666667
+Romania,1999,32.17333333
+Romania,2000,32.48
+Romania,2001,33.3825
+Romania,2002,33.5575
+Romania,2003,33.63666667
+Romania,2004,34.21333333
+Romania,2005,35.14
+Romania,2006,36.675
+Romania,2007,36.572
+Romania,2008,35.1
+Romania,2009,32.75
+Romania,2010,32.37666667
+Romania,2011,32.19333333
+Romania,2012,32.62666667
+Romania,2013,32.98666667
+Romania,2014,35.505
+Romania,2015,36.655
+Romania,2016,31.525
+Romania,2017,33.1
+Romania,2018,35.1
+Russia,1981,25.1
+Russia,1986,26.1
+Russia,1988,25.1
+Russia,1989,26.65
+Russia,1990,25.43333333
+Russia,1991,31.15
+Russia,1992,42.675
+Russia,1993,48.12
+Russia,1994,44.1
+Russia,1995,43.06666667
+Russia,1996,45.525
+Russia,1997,38.07
+Russia,1998,39.435
+Russia,1999,37.44
+Russia,2000,42.615
+Russia,2001,43.74333333
+Russia,2002,43.19
+Russia,2003,39.97
+Russia,2004,42.10333333
+Russia,2005,42.885
+Russia,2006,43.025
+Russia,2007,39.474
+Russia,2008,44.32333333
+Russia,2009,39.85
+Russia,2010,38.93571429
+Russia,2011,39.09375
+Russia,2012,40.71
+Russia,2013,37.136
+Russia,2014,36.316
+Russia,2015,35.348
+Russia,2016,34.56
+Rwanda,1985,28.9
+Rwanda,2001,46.825
+Rwanda,2006,52.04
+Rwanda,2011,48.11
+Rwanda,2014,45.11
+Rwanda,2017,43.71
+Saint Kitts and Nevis,2000,39
+Saint Kitts and Nevis,2009,40
+Saint Lucia,1995,42.58
+Saint Lucia,2007,42
+Saint Lucia,2016,51.23
+Saint Vincent and the Grenadines,1995,56
+Saint Vincent and the Grenadines,2008,40
+Samoa,2002,40.74
+Samoa,2008,42.05
+Samoa,2014,38.73
+San Marino,2007,28.1
+San Marino,2008,30.3
+San Marino,2009,29
+San Marino,2010,27.5
+San Marino,2011,27.7
+San Marino,2012,27.8
+San Marino,2013,29.2
+San Marino,2014,30.1
+San Marino,2015,29.4
+San Marino,2016,29.3
+San Marino,2017,27.7
+Sao Tome and Principe,2001,32.13
+Sao Tome and Principe,2010,30.82
+Saudi Arabia,2007,51.3
+Saudi Arabia,2013,45.9
+Senegal,1961,55.7
+Senegal,1971,49.55
+Senegal,1992,54.14
+Senegal,1995,41.44
+Senegal,2001,41.23
+Senegal,2006,39.22
+Senegal,2011,37.8
+Senegal,2012,40.29
+Serbia,2002,31.535
+Serbia,2003,35.04333333
+Serbia,2004,35.92666667
+Serbia,2005,35.68666667
+Serbia,2006,33.57571429
+Serbia,2007,32.40333333
+Serbia,2008,31.58666667
+Serbia,2009,27.97
+Serbia,2010,30.864
+Serbia,2012,39.82
+Serbia,2013,33.41857143
+Serbia,2014,38.75
+Serbia,2015,36.05666667
+Serbia,2016,32.44
+Serbia,2017,37.8
+Serbia and Montenegro,1992,31.16666667
+Serbia and Montenegro,1993,37.6
+Serbia and Montenegro,1994,33.03333333
+Serbia and Montenegro,1995,31.33333333
+Serbia and Montenegro,1996,32.2
+Serbia and Montenegro,1997,28.45
+Serbia and Montenegro,1998,28.9
+Serbia and Montenegro,1999,27.3
+Serbia and Montenegro,2000,37.3
+Serbia and Montenegro,2001,37.8
+Seychelles,1978,46
+Seychelles,2000,42.78
+Seychelles,2007,41.335
+Seychelles,2013,46.82
+Sierra Leone,1969,55.675
+Sierra Leone,1976,49
+Sierra Leone,1990,62.9
+Sierra Leone,2004,39.585
+Sierra Leone,2011,34.03
+Singapore,1966,47.75
+Singapore,1972,42.15
+Singapore,1973,43.35
+Singapore,1974,43.4
+Singapore,1975,44.8
+Singapore,1976,45
+Singapore,1977,40.5
+Singapore,1978,37.66666667
+Singapore,1979,43
+Singapore,1980,41.85
+Singapore,1981,43
+Singapore,1982,44
+Singapore,1983,42.43333333
+Singapore,1984,47
+Singapore,1985,46
+Singapore,1986,46
+Singapore,1987,46
+Singapore,1988,38.775
+Singapore,1989,47
+Singapore,1990,44.8
+Singapore,1991,47
+Singapore,1992,47
+Singapore,1993,40.375
+Singapore,1994,47
+Singapore,1995,44.3
+Singapore,1996,47
+Singapore,1997,45.7
+Singapore,1998,45.8
+Singapore,1999,46.7
+Singapore,2000,48.1
+Singapore,2003,44.7175926
+Singapore,2008,45.5675926
+Singapore,2009,47.1
+Singapore,2010,47.2
+Singapore,2011,47.3
+Singapore,2012,43.73518519
+Slovakia,1958,30.6
+Slovakia,1987,19.4
+Slovakia,1988,18.96666667
+Slovakia,1989,19.93333333
+Slovakia,1990,19.8
+Slovakia,1991,20.65
+Slovakia,1992,22.58888889
+Slovakia,1993,19.35
+Slovakia,1996,25.2025
+Slovakia,1997,24.9
+Slovakia,1998,26.2
+Slovakia,1999,22.3
+Slovakia,2000,26.4
+Slovakia,2001,26.3
+Slovakia,2002,26.7
+Slovakia,2003,29.9
+Slovakia,2004,29.731
+Slovakia,2005,31.10285714
+Slovakia,2006,28.885
+Slovakia,2007,27.22363636
+Slovakia,2008,27.71285714
+Slovakia,2009,29.30833333
+Slovakia,2010,29.04555556
+Slovakia,2011,29.448
+Slovakia,2012,28.704
+Slovakia,2013,29.32
+Slovakia,2014,28.522
+Slovakia,2015,28.378
+Slovakia,2016,24.2
+Slovakia,2017,23.2
+Slovenia,1987,20.7
+Slovenia,1989,22.05
+Slovenia,1990,23
+Slovenia,1991,26.9
+Slovenia,1992,26
+Slovenia,1993,27.295
+Slovenia,1994,26.05
+Slovenia,1995,31.1
+Slovenia,1996,27.03333333
+Slovenia,1997,26.44285714
+Slovenia,1998,26.4025
+Slovenia,1999,26.45714286
+Slovenia,2000,24.875
+Slovenia,2001,24.85
+Slovenia,2002,25.444
+Slovenia,2003,26.9425
+Slovenia,2004,28.89888889
+Slovenia,2005,28.29
+Slovenia,2006,29.17666667
+Slovenia,2007,27.385
+Slovenia,2008,28.50333333
+Slovenia,2009,29.218
+Slovenia,2010,28.08111111
+Slovenia,2011,29.594
+Slovenia,2012,28.73111111
+Slovenia,2013,30.588
+Slovenia,2014,30.432
+Slovenia,2015,30.122
+Slovenia,2016,24.4
+Slovenia,2017,23.7
+Slovenia,2018,23.4
+Solomon Islands,2005,46.1
+Solomon Islands,2013,37.05
+Somalia,2002,39.7
+South Africa,1960,54
+South Africa,1965,56.85
+South Africa,1970,51
+South Africa,1975,57.5
+South Africa,1980,49
+South Africa,1985,47
+South Africa,1987,45
+South Africa,1990,63
+South Africa,1991,68
+South Africa,1993,63.715
+South Africa,1995,59
+South Africa,1996,64.845
+South Africa,1997,54.5
+South Africa,2000,67
+South Africa,2001,65.385
+South Africa,2005,68.38
+South Africa,2008,68.45714286
+South Africa,2009,63.01
+South Africa,2010,67.08285714
+South Africa,2011,73.25
+South Africa,2012,64.81666667
+South Africa,2015,65.426
+South Sudan,2009,46.34
+Soviet Union,1968,26.2
+Soviet Union,1972,26.5
+Soviet Union,1976,26
+Soviet Union,1980,26.75
+Soviet Union,1981,25.8
+Soviet Union,1984,24.9
+Soviet Union,1985,27
+Soviet Union,1986,27.6
+Soviet Union,1988,27.6
+Soviet Union,1989,27.86666667
+Soviet Union,1990,28.1
+Soviet Union,1993,30.5
+Spain,1965,36.73333333
+Spain,1973,34.69090909
+Spain,1980,32.50909091
+Spain,1985,30.34
+Spain,1986,26
+Spain,1987,25.8
+Spain,1988,27.95
+Spain,1989,25.9
+Spain,1990,33.20833333
+Spain,1994,35
+Spain,1995,35.46666667
+Spain,1996,28.85
+Spain,1997,35
+Spain,1998,33.325
+Spain,1999,33.5
+Spain,2000,33.1
+Spain,2001,32.925
+Spain,2002,32.25
+Spain,2003,31.925
+Spain,2004,31.87142857
+Spain,2005,32.006
+Spain,2006,32.72
+Spain,2007,34.50571429
+Spain,2008,36.344
+Spain,2009,37.286
+Spain,2010,36.97857143
+Spain,2011,38.38
+Spain,2012,38.202
+Spain,2013,38.07555556
+Spain,2014,39.19
+Spain,2015,39.176
+Spain,2016,35.83333333
+Spain,2017,34.1
+Spain,2018,33.2
+Sri Lanka,1953,48.76666667
+Sri Lanka,1963,43.6
+Sri Lanka,1970,33.84444444
+Sri Lanka,1973,37.64444444
+Sri Lanka,1979,44
+Sri Lanka,1980,43.7
+Sri Lanka,1982,42.33333333
+Sri Lanka,1985,32.47
+Sri Lanka,1986,46
+Sri Lanka,1987,38.8
+Sri Lanka,1991,39.68333333
+Sri Lanka,1996,41
+Sri Lanka,2000,42.1
+Sri Lanka,2002,42.98666667
+Sri Lanka,2007,43.41666667
+Sri Lanka,2010,40.79666667
+Sri Lanka,2013,42.38666667
+Sri Lanka,2016,41.93666667
+Sudan,1963,44.6
+Sudan,1969,39.75714286
+Sudan,2009,45.05
+Suriname,1962,29.5
+Suriname,1969,25.22
+Suriname,1999,57.61
+Suriname,2000,46.5
+Suriname,2004,55
+Suriname,2008,45
+Suriname,2017,38.1
+Sweden,1935,53
+Sweden,1945,47
+Sweden,1948,42.5
+Sweden,1951,55.7
+Sweden,1952,55
+Sweden,1953,55
+Sweden,1954,46.2
+Sweden,1955,54.2
+Sweden,1956,54.3
+Sweden,1957,54.4
+Sweden,1958,54.5
+Sweden,1959,54.7
+Sweden,1960,54.3
+Sweden,1961,54.1
+Sweden,1962,53.5
+Sweden,1963,43.025
+Sweden,1964,52.7
+Sweden,1965,52.2
+Sweden,1966,52.1
+Sweden,1967,38.56666667
+Sweden,1968,51.7
+Sweden,1969,50.6
+Sweden,1970,43.95
+Sweden,1971,48.5
+Sweden,1972,39
+Sweden,1973,46.8
+Sweden,1974,46.1
+Sweden,1975,29.56
+Sweden,1976,31.425
+Sweden,1977,20.4
+Sweden,1978,20.1
+Sweden,1979,25.56666667
+Sweden,1980,23.9
+Sweden,1981,26
+Sweden,1982,26.3
+Sweden,1983,27.45
+Sweden,1984,27.05
+Sweden,1985,26.875
+Sweden,1986,29.4
+Sweden,1987,26.875
+Sweden,1988,27
+Sweden,1989,24.7
+Sweden,1990,25.06
+Sweden,1991,27.02
+Sweden,1992,28.1
+Sweden,1993,24.85
+Sweden,1994,27.9
+Sweden,1995,27.55714286
+Sweden,1996,25.25
+Sweden,1997,23.2
+Sweden,1998,24.2
+Sweden,1999,24.05
+Sweden,2000,30.28571429
+Sweden,2001,25.15
+Sweden,2002,24.4
+Sweden,2003,25.335
+Sweden,2004,28.935
+Sweden,2005,26.18666667
+Sweden,2006,25.175
+Sweden,2007,25.255
+Sweden,2008,30.43
+Sweden,2009,31.235
+Sweden,2010,31.06
+Sweden,2011,31.1025
+Sweden,2012,26.82
+Sweden,2013,30.824
+Sweden,2014,31.178
+Sweden,2015,31.522
+Sweden,2016,27.9
+Sweden,2017,28.1
+Sweden,2018,27
+Switzerland,1978,31.2
+Switzerland,1982,35.44285714
+Switzerland,1991,33.8
+Switzerland,1992,33.625
+Switzerland,1998,31.4
+Switzerland,2000,31.3125
+Switzerland,2001,29.6
+Switzerland,2002,30.4625
+Switzerland,2004,29.9
+Switzerland,2006,33.92
+Switzerland,2007,32.775
+Switzerland,2008,32.445
+Switzerland,2009,32.6375
+Switzerland,2010,31.25833333
+Switzerland,2011,31.7775
+Switzerland,2012,30.185
+Switzerland,2013,31.57333333
+Switzerland,2014,31.824
+Switzerland,2015,30.50333333
+Switzerland,2016,29.4
+Switzerland,2017,30.1
+Syria,1997,32.6
+Syria,2004,36.64
+Syria,2007,34.2
+Taiwan,1953,54.46666667
+Taiwan,1959,44.4
+Taiwan,1961,44.3
+Taiwan,1964,31.83333333
+Taiwan,1968,32.6
+Taiwan,1970,29.4
+Taiwan,1971,29.5
+Taiwan,1972,28.4
+Taiwan,1974,28.7
+Taiwan,1976,28
+Taiwan,1977,28.4
+Taiwan,1978,28.7
+Taiwan,1979,28.5
+Taiwan,1980,26.85
+Taiwan,1981,27.26666667
+Taiwan,1982,27.86666667
+Taiwan,1983,28.13333333
+Taiwan,1984,28.03333333
+Taiwan,1985,27.925
+Taiwan,1986,27.55555556
+Taiwan,1987,28.26666667
+Taiwan,1988,28.8
+Taiwan,1989,28.66666667
+Taiwan,1990,29.46666667
+Taiwan,1991,28.81818182
+Taiwan,1992,29.16666667
+Taiwan,1993,29.33333333
+Taiwan,1994,29.36666667
+Taiwan,1995,29.03333333
+Taiwan,1996,29.23333333
+Taiwan,1997,28.41111111
+Taiwan,1998,29.73333333
+Taiwan,1999,29.6
+Taiwan,2000,28.57777778
+Taiwan,2001,31.9
+Taiwan,2002,31.8
+Taiwan,2003,31.3
+Taiwan,2004,30.76666667
+Taiwan,2005,31.2
+Taiwan,2006,30.5
+Taiwan,2007,29.08888889
+Taiwan,2008,30.83333333
+Taiwan,2009,31.1
+Taiwan,2010,29.51111111
+Taiwan,2011,30.7
+Taiwan,2012,30.13333333
+Taiwan,2013,29.06666667
+Taiwan,2014,29.63333333
+Taiwan,2015,29.56666667
+Taiwan,2016,28.4
+Taiwan,2017,29.46666667
+Tajikistan,1981,25.2
+Tajikistan,1986,27.2
+Tajikistan,1988,31.8
+Tajikistan,1989,28.83333333
+Tajikistan,1990,33.4
+Tajikistan,1999,38.27
+Tajikistan,2003,32.72
+Tajikistan,2004,33.6
+Tajikistan,2007,32.19
+Tajikistan,2009,30.77
+Tajikistan,2015,34
+Tanzania,1964,47.6
+Tanzania,1967,52.53333333
+Tanzania,1968,51.33333333
+Tanzania,1969,50.85
+Tanzania,1977,52
+Tanzania,1983,52
+Tanzania,1991,72
+Tanzania,1992,34.645
+Tanzania,1993,39.5
+Tanzania,2001,36.15
+Tanzania,2007,35.82
+Tanzania,2012,37.78
+Thailand,1962,46.28571429
+Thailand,1969,43.51666667
+Thailand,1970,41.65
+Thailand,1971,45.3
+Thailand,1975,42.26
+Thailand,1981,44.94571429
+Thailand,1986,49.8
+Thailand,1988,47.885
+Thailand,1990,47.11
+Thailand,1992,49.05142857
+Thailand,1994,47.43857143
+Thailand,1996,47.27142857
+Thailand,1998,46.78
+Thailand,1999,47.83
+Thailand,2000,43.365
+Thailand,2001,41.9
+Thailand,2002,42.25281553
+Thailand,2004,43.5292233
+Thailand,2006,43.1692233
+Thailand,2007,42.1392233
+Thailand,2008,40.29
+Thailand,2009,40.87281553
+Thailand,2010,39.4
+Thailand,2011,39.8594822
+Thailand,2012,39.26
+Thailand,2013,39.6894822
+Thailand,2014,37.03
+Thailand,2015,38.0694822
+Thailand,2016,36.89
+Thailand,2017,38.38281553
+Timor-Leste,2001,35.94
+Timor-Leste,2007,27.82
+Timor-Leste,2014,28.65
+Togo,1957,33.8
+Togo,2006,42.21
+Togo,2011,46.02
+Togo,2015,43.06
+Tonga,2001,37.69
+Tonga,2009,37.5
+Tonga,2015,37.59
+Trinidad and Tobago,1958,45
+Trinidad and Tobago,1965,48.7
+Trinidad and Tobago,1971,49.96666667
+Trinidad and Tobago,1976,46.16666667
+Trinidad and Tobago,1981,41.7
+Trinidad and Tobago,1988,42.6
+Trinidad and Tobago,1992,47.2425
+Tunisia,1961,47.1
+Tunisia,1965,48.96666667
+Tunisia,1970,49.35
+Tunisia,1975,41.36666667
+Tunisia,1980,40.25
+Tunisia,1985,40.94333333
+Tunisia,1990,40.62
+Tunisia,1995,41.66
+Tunisia,2000,40.81
+Tunisia,2006,39.565
+Tunisia,2011,37.155
+Tunisia,2016,32.82
+Turkey,1952,53
+Turkey,1963,52.33333333
+Turkey,1968,56.54
+Turkey,1973,50.5
+Turkey,1974,47
+Turkey,1978,50.33333333
+Turkey,1979,40
+Turkey,1983,51.33333333
+Turkey,1987,44.21333333
+Turkey,1994,46.38666667
+Turkey,2002,43.7
+Turkey,2003,43.59
+Turkey,2004,42.145
+Turkey,2005,42.61
+Turkey,2006,41.625
+Turkey,2007,39.82
+Turkey,2008,39.73666667
+Turkey,2009,40.52428571
+Turkey,2010,40.83625
+Turkey,2011,40.3675
+Turkey,2012,40.03375
+Turkey,2013,39.5975
+Turkey,2014,40.25666667
+Turkey,2015,41.05833333
+Turkey,2016,41.1175
+Turkey,2017,41.16666667
+Turkey,2018,40.55
+Turkmenistan,1981,26.2
+Turkmenistan,1986,25.2
+Turkmenistan,1988,31.6
+Turkmenistan,1989,28.03333333
+Turkmenistan,1990,30.8
+Turkmenistan,1993,35.8
+Turkmenistan,1997,24.9
+Turkmenistan,1998,30.835
+Turkmenistan,1999,26.5
+Turks and Caicos Islands,1999,37
+Tuvalu,2010,39.14
+Uganda,1970,34.68
+Uganda,1989,38.94
+Uganda,1993,41.966
+Uganda,1997,39.04
+Uganda,2000,48.3
+Uganda,2003,43.1425
+Uganda,2006,40.81
+Uganda,2010,42.25
+Uganda,2013,41.01
+Uganda,2017,42.75
+Ukraine,1968,24.6
+Ukraine,1972,25
+Ukraine,1976,24.2
+Ukraine,1980,34.6
+Ukraine,1981,23.6
+Ukraine,1985,32.2
+Ukraine,1986,24.9
+Ukraine,1988,24.05
+Ukraine,1989,24.6
+Ukraine,1990,24.55
+Ukraine,1991,21.5
+Ukraine,1992,25.2025
+Ukraine,1993,32.665
+Ukraine,1995,45.378
+Ukraine,1996,38.23
+Ukraine,1997,35.95
+Ukraine,1998,39.1
+Ukraine,1999,34.55333333
+Ukraine,2000,41.25
+Ukraine,2001,40.8
+Ukraine,2002,34.51666667
+Ukraine,2003,34.73
+Ukraine,2004,34.965
+Ukraine,2005,29.02
+Ukraine,2006,35.395
+Ukraine,2007,27.01
+Ukraine,2008,26.64
+Ukraine,2009,25.32
+Ukraine,2010,24.82
+Ukraine,2011,24.55
+Ukraine,2012,24.74
+Ukraine,2013,24.55
+Ukraine,2014,24.03
+Ukraine,2015,25.46
+Ukraine,2016,25
+United Arab Emirates,2008,38.3
+United Kingdom,1867,57.5
+United Kingdom,1938,40.5
+United Kingdom,1949,38
+United Kingdom,1954,40
+United Kingdom,1955,37.5
+United Kingdom,1960,35.5
+United Kingdom,1961,25.905
+United Kingdom,1962,24.52
+United Kingdom,1963,26.855
+United Kingdom,1964,33.96833333
+United Kingdom,1965,27.47333333
+United Kingdom,1966,28.15333333
+United Kingdom,1967,29.5725
+United Kingdom,1968,28.9875
+United Kingdom,1969,29.59
+United Kingdom,1970,28.40333333
+United Kingdom,1971,29.17666667
+United Kingdom,1972,29.04333333
+United Kingdom,1973,29.515
+United Kingdom,1974,28.7025
+United Kingdom,1975,30.08
+United Kingdom,1976,27.28666667
+United Kingdom,1977,23.675
+United Kingdom,1978,23.68
+United Kingdom,1979,27.961
+United Kingdom,1980,25.525
+United Kingdom,1981,26.065
+United Kingdom,1982,25.91
+United Kingdom,1983,26.54
+United Kingdom,1984,26.75
+United Kingdom,1985,33.45
+United Kingdom,1986,33.63636364
+United Kingdom,1987,30.3
+United Kingdom,1988,31.05333333
+United Kingdom,1989,32.44
+United Kingdom,1990,38.0025
+United Kingdom,1991,35.9475
+United Kingdom,1992,33.955
+United Kingdom,1993,33.8
+United Kingdom,1994,37.27125
+United Kingdom,1995,34.80666667
+United Kingdom,1996,32.80666667
+United Kingdom,1997,32.37666667
+United Kingdom,1998,33.52
+United Kingdom,1999,37.30444444
+United Kingdom,2000,37.562
+United Kingdom,2001,37.838
+United Kingdom,2002,37.75142857
+United Kingdom,2003,37.86166667
+United Kingdom,2004,38.26333333
+United Kingdom,2005,38.15666667
+United Kingdom,2006,38.07833333
+United Kingdom,2007,37.946
+United Kingdom,2008,38.75666667
+United Kingdom,2009,39.00166667
+United Kingdom,2010,37.376
+United Kingdom,2011,37.83666667
+United Kingdom,2012,37.38333333
+United Kingdom,2013,36.856
+United Kingdom,2014,37.79166667
+United Kingdom,2015,37.905
+United Kingdom,2016,35.36857143
+United Kingdom,2017,34.11333333
+United Kingdom,2018,34.07
+United States of America,1944,43.6
+United States of America,1945,41.1
+United States of America,1947,40.3
+United States of America,1948,39.75
+United States of America,1949,40.3
+United States of America,1950,40.5
+United States of America,1951,38.95
+United States of America,1952,39.2
+United States of America,1953,35.9
+United States of America,1954,40
+United States of America,1955,39.15
+United States of America,1956,38.65
+United States of America,1957,38.45
+United States of America,1958,38.5
+United States of America,1959,39.15
+United States of America,1960,36.1
+United States of America,1961,40.3
+United States of America,1962,39.15
+United States of America,1963,39
+United States of America,1964,39
+United States of America,1965,39.56666667
+United States of America,1966,38.1
+United States of America,1967,39.49
+United States of America,1968,38.666
+United States of America,1969,37.726
+United States of America,1970,37.662
+United States of America,1971,39.1525
+United States of America,1972,36.94571429
+United States of America,1973,39.4175
+United States of America,1974,38.436
+United States of America,1975,39.205
+United States of America,1976,39.2675
+United States of America,1977,39.585
+United States of America,1978,39.5225
+United States of America,1979,36.70909091
+United States of America,1980,36.70285714
+United States of America,1981,39.03
+United States of America,1982,39.862
+United States of America,1983,40.208
+United States of America,1984,37.17625
+United States of America,1985,38.52666667
+United States of America,1986,38.6925
+United States of America,1987,37.6
+United States of America,1988,36.88285714
+United States of America,1989,38.344
+United States of America,1990,37.986
+United States of America,1991,38.36166667
+United States of America,1992,38.492
+United States of America,1993,39.43833333
+United States of America,1994,39.90545455
+United States of America,1995,40.23714286
+United States of America,1996,39.20166667
+United States of America,1997,40.238
+United States of America,1998,38.545
+United States of America,1999,38.6175
+United States of America,2000,40.66
+United States of America,2001,39.04
+United States of America,2002,39.02
+United States of America,2003,39.36
+United States of America,2004,40.16555556
+United States of America,2005,41.786
+United States of America,2006,40.0975
+United States of America,2007,40.35666667
+United States of America,2008,41.23
+United States of America,2009,41.696
+United States of America,2010,41.307
+United States of America,2011,42.482
+United States of America,2012,42.376
+United States of America,2013,42.95230769
+United States of America,2014,42.75333333
+United States of America,2015,42.76166667
+United States of America,2016,41.44444444
+United States of America,2017,45.898
+United States of America,2018,47.51
+Uruguay,1961,36.6
+Uruguay,1963,39.75
+Uruguay,1967,43.22
+Uruguay,1976,42.75
+Uruguay,1980,42.4
+Uruguay,1981,43.25
+Uruguay,1982,40.65
+Uruguay,1983,40.4
+Uruguay,1984,40.15
+Uruguay,1985,41.45
+Uruguay,1986,39.7
+Uruguay,1987,38.3
+Uruguay,1989,41.98142857
+Uruguay,1990,49.2
+Uruguay,1992,41.94285714
+Uruguay,1994,42.3
+Uruguay,1995,42.25166667
+Uruguay,1996,40.58666667
+Uruguay,1997,41.826
+Uruguay,1998,42.5275
+Uruguay,1999,44
+Uruguay,2000,42.962
+Uruguay,2001,44.765
+Uruguay,2002,45.3675
+Uruguay,2003,44.97
+Uruguay,2004,45.525
+Uruguay,2005,44.5225
+Uruguay,2006,45.09
+Uruguay,2007,45.74714286
+Uruguay,2008,44.81
+Uruguay,2009,45.57285714
+Uruguay,2010,43.20571429
+Uruguay,2011,41.4
+Uruguay,2012,39.086
+Uruguay,2013,39.44714286
+Uruguay,2014,39.31
+Uruguay,2015,39.352
+Uruguay,2016,38.67428571
+Uruguay,2017,38.898
+Uruguay,2018,39.25
+Uzbekistan,1981,24.8
+Uzbekistan,1986,26.4
+Uzbekistan,1988,30.6
+Uzbekistan,1989,28.075
+Uzbekistan,1990,31.5
+Uzbekistan,1993,33.3
+Uzbekistan,1998,44.67
+Uzbekistan,2000,36.1
+Uzbekistan,2001,44.05
+Uzbekistan,2002,33.04
+Uzbekistan,2003,35.27
+Uzbekistan,2005,39.7
+Vanuatu,2010,37.63
+Venezuela,1962,46.075
+Venezuela,1971,54.95
+Venezuela,1976,48.8
+Venezuela,1977,42.4
+Venezuela,1978,40.7
+Venezuela,1979,39.7
+Venezuela,1980,41
+Venezuela,1981,44.662
+Venezuela,1982,39.75
+Venezuela,1983,40.25
+Venezuela,1984,46.6
+Venezuela,1985,42.95
+Venezuela,1986,42.75
+Venezuela,1987,45.55
+Venezuela,1988,42.2
+Venezuela,1989,42.2875
+Venezuela,1990,43.44
+Venezuela,1991,40.45
+Venezuela,1992,42.41375
+Venezuela,1993,40.2
+Venezuela,1994,50.28
+Venezuela,1995,47.462
+Venezuela,1996,51.73333333
+Venezuela,1997,49.50909091
+Venezuela,1998,47.2
+Venezuela,1999,47.284
+Venezuela,2000,43.18
+Venezuela,2001,45.18
+Venezuela,2002,46.19
+Venezuela,2003,45.0425
+Venezuela,2004,44.53
+Venezuela,2005,47.09
+Venezuela,2006,42.885
+Venezuela,2007,39.05
+Venezuela,2008,37.95
+Venezuela,2009,38.1
+Venezuela,2010,36.2
+Venezuela,2011,36.8
+Venezuela,2012,38.4
+Venezuela,2013,38.8
+Venezuela,2014,37.8
+Vietnam,1993,32.5125
+Vietnam,1996,36.7
+Vietnam,1998,32.86
+Vietnam,2002,35.94294118
+Vietnam,2004,35.61705882
+Vietnam,2006,35.46411765
+Vietnam,2008,36.53352941
+Vietnam,2010,38.42090909
+Vietnam,2012,36.34590909
+Vietnam,2014,35.81930481
+Vietnam,2016,38.17688312
+Vietnam,2018,38.21136364
+West Bank and Gaza,1996,35.5
+West Bank and Gaza,1997,34.1
+West Bank and Gaza,1998,34.5
+West Bank and Gaza,2004,35.02
+West Bank and Gaza,2005,36.42
+West Bank and Gaza,2006,35.83
+West Bank and Gaza,2007,38.205
+West Bank and Gaza,2009,36.08
+West Bank and Gaza,2010,37.245
+West Bank and Gaza,2011,36.41
+West Bank and Gaza,2017,33.69
+Yemen,1992,39.5
+Yemen,1998,35
+Yemen,2006,34.73
+Yemen,2014,36.71
+Yugoslavia,1963,32.7
+Yugoslavia,1964,23
+Yugoslavia,1965,30.6
+Yugoslavia,1966,25.1
+Yugoslavia,1967,24.9
+Yugoslavia,1968,27.48571429
+Yugoslavia,1969,25
+Yugoslavia,1970,25
+Yugoslavia,1971,23.65
+Yugoslavia,1972,22.9
+Yugoslavia,1973,25.36666667
+Yugoslavia,1974,21.85
+Yugoslavia,1975,21.4
+Yugoslavia,1976,21.2
+Yugoslavia,1978,29.73333333
+Yugoslavia,1979,22
+Yugoslavia,1980,21
+Yugoslavia,1981,20
+Yugoslavia,1982,21
+Yugoslavia,1983,26.4
+Yugoslavia,1984,32.8
+Yugoslavia,1985,32.4
+Yugoslavia,1986,33.2
+Yugoslavia,1987,33.3
+Yugoslavia,1988,35.8
+Yugoslavia,1989,28.8
+Yugoslavia,1990,31.625
+Yugoslavia,1991,30.53333333
+Zambia,1959,47.83333333
+Zambia,1970,61.8
+Zambia,1972,57
+Zambia,1975,59
+Zambia,1976,53.5
+Zambia,1991,68.905
+Zambia,1993,59.305
+Zambia,1996,54.865
+Zambia,1998,56.915
+Zambia,2003,42.06
+Zambia,2004,54
+Zambia,2005,54.29
+Zambia,2007,54.62
+Zambia,2010,55.62
+Zambia,2015,57.14
+Zimbabwe,1945,46
+Zimbabwe,1969,63.83333333
+Zimbabwe,1990,56.8
+Zimbabwe,1995,72.45
+Zimbabwe,2011,40.3625
