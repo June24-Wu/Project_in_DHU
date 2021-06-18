@@ -1,0 +1,36 @@
+.container{
+color: azure;
+}
+.id{
+    color: azure;
+}
+
+.h2{
+color: azure;
+}
+html,
+body{
+
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url("../image/pexels-pixabay-326279.jpg");
+  
+    background-position: center 0;
+  
+    background-repeat: no-repeat;
+  
+    background-attachment: fixed;
+  
+    background-size: cover;
+  
+    -webkit-background-size: cover;
+  
+    -o-background-size: cover;
+  
+    -moz-background-size: cover;
+  
+    -ms-background-size: cover;
+  
+}

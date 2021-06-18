@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+    content="width=device -width, user- scalable=no，initial=1.0, maximum- scale=1.0, minimum-scale=1.0" />
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Hugo 0.80.0">
+  <title>健康测试</title>
+  <link href="../static/css/bootstrap.css" rel='stylesheet' />
+  <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/checkout/">
+  <!-- Bootstrap core CSS -->
+  <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="../static/css/form-validation.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+
+  <!--导航栏 -->
+  <nav class="navbar navbar-default navbar-fixed-top  navbar navbar-inverse">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+          data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">今天也要好好吃饭</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li ><a href="{% url 'jump' %}">首页 <span class="sr-only">(current)</span></a></li>
+          <li ><a href="{% url 'f01' %}">食物查询 <span class="sr-only">(current)</span></a></li>
+          <li ><a href="{% url 'health_check' %}">健康测试 <span class="sr-only">(current)</span></a></li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="{% url 'login' %}">退出</a></li>
+          </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+  </nav>
+
+  <div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-10 ">
+        <h2 id='h2'>健康测试</h2>
+          <legend id='legend'></legend>
+
+          <form class="form-horizontal" method="post" action="health_check">
+            {% csrf_token %}
+            <!-- 表单区域-->
+            <fieldset>
+              <!--表单主题-->
+              <!-- 每一个form-group都可以自定义布局-->
+              <div class="form-group">
+                <!-- label表示文字提示标签,可以通过表单的组建的id提示-->
+                <label class="col-md-2 control-label" for="mid">年龄</label>
+                <div class="col-md-3">
+                  <input class="form-control" id="mid" type="text" name='age' />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <!-- label表示文字提示标签,可以通过表单的组建的id提示-->
+                <label class="col-md-2 control-label" for="password">身高(cm)</label>
+                <div class="col-md-3">
+                  <input class="form-control" id="password" type="text" name='height' />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <!-- label表示文字提示标签,可以通过表单的组建的id提示-->
+                <label class="col-md-2 control-label" for="con">体重(kg)</label>
+                <div class="col-md-3">
+                  <input class="form-control" id="con" type="text" name='weight' />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <!-- label表示文字提示标签,可以通过表单的组建的id提示-->
+                <label class="col-md-2 control-label" for="con">一天喝水量（L）</label>
+                <div class="col-md-3">
+                  <input class="form-control" id="con" type="text" name='water' />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <!-- label表示文字提示标签,可以通过表单的组建的id提示-->
+                <label class="col-md-2 control-label" for="con">每周吃蔬菜的频率</label>
+                <div class="col-md-3">
+                  <input class="form-control" id="con" type="text" name='vegetable' />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <!-- label表示文字提示标签,可以通过表单的组建的id提示-->
+                <label class="col-md-2 control-label" for="con">每周锻炼的次数</label>
+                <div class="col-md-3">
+                  <input class="form-control" id="con" type="text" name='activity' />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <!-- label表示文字提示标签,可以通过表单的组建的id提示-->
+                <label class="col-md-2 control-label" for="con">每日玩手机时长(时)</label>
+                <div class="col-md-3">
+                  <input class="form-control" id="con" type="text" name='mobile' />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="col-md-2 control-label" for="sex">性别</label>
+                <div class="col-md-5">
+                  <div class="radio-inline">
+                    <input type="radio" name="sex" id="sex-man" value="0" checked />男
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="sex" id="sex-woman" value="1" />女
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="col-md-2 control-label" for="overweight">家庭之前是否超重</label>
+                <div class="col-md-5">
+                  <div class="radio-inline">
+                    <input type="radio" name="overweight" id="weight-yes" value="1" checked />是
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="overweight" id="weight-no" value="0" />否
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="col-md-2 control-label" for="calorie">经常吃高热量的食物</label>
+                <div class="col-md-5">
+                  <div class="radio-inline">
+                    <input type="radio" name="calorie" id="calorie-yes" value="1" checked />有
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="calorie" id="calorie-no" value="0" />无
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <!-- label表示文字提示标签,可以通过表单的组建的id提示-->
+                <label class="col-md-2 control-label" for="con">每日吃几餐(输入1-3)</label>
+                <div class="col-md-4">
+                  <input class="form-control" id="con" type="text" name="meal" />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="col-md-2 control-label" for="snack">吃零食的情况</label>
+                <div class="col-md-5">
+                  <div class="radio-inline">
+                    <input type="radio" name="snack" id="snack-all" value="0" checked />一直
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="snack" id="snack-always" value="1" />经常
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="snack" id="snack-seldom" value="2" checked />偶尔
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="snack" id="snack-no" value="3" />不吃
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="col-md-2 control-label" for="smoke">抽烟情况</label>
+                <div class="col-md-5">
+                  <div class="radio-inline">
+                    <input type="radio" name="smoke" id="smoke-yes" value="1" checked />有
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="smoke" id="smoke-no" value="0" />无
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <label class="col-md-2 control-label" for="drink">有无喝酒的情况</label>
+                <div class="col-md-5">
+                  <div class="radio-inline">
+                    <input type="radio" name="drink" id="drink_all" value="0" checked />一直
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="drink" id="drink_always" value="1" />经常
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="drink" id="drink_seldom" value="2" checked />偶尔
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="drink" id="drink_no" value="3" />不喝
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="col-md-2 control-label" for="attention">有无进行卡路里监控</label>
+                <div class="col-md-5">
+                  <div class="radio-inline">
+                    <input type="radio" name="attention" id="attention-yes" value="1" checked />有
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="attention" id="attention-no" value="0" />无
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label class="col-md-2 control-label" for="out">平常出行方式</label>
+                <div class="col-md-5">
+                  <div class="radio-inline">
+                    <input type="radio" name="out" id="out_car" value="0" checked />汽车
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="out" id="out_bike" value="1" />自行车
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="out" id="out_moto" value="2" checked />摩托车
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="out" id="out_trans" value="3" />公共交通
+                  </div>
+                  <div class="radio-inline">
+                    <input type="radio" name="out" id="out_walk" value="4" />步行
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="col-md-6 col-md-offset-3">
+                  <input class="btn btn-primary" type="submit" value="开始测试" />
+                </div>
+              </div>
+            </fieldset>
+          </form>
+
+        </div>
+        <div class="col-sm-2 ">
+        <h2 id='h2'>结果显示</h2>
+          <legend id='legend'></legend>
+          {% if message1 %}
+          <h3  id ='result'>{{ message1 }}</h3>
+          {% endif %}
+         
+        </div>
+      </div>
+
+
+      <hr>
+
+      <footer>
+        <p>地址：上海市长宁区延安西路1882号东华大学 邮编：200051</p>
+      </footer>
+      <div>
+
+
+
+        <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+        <script src="form-validation.js"></script>
+</body>
+
+</html>
