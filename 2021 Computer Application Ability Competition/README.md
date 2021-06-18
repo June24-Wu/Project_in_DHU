@@ -2,7 +2,7 @@
 学生信息	
 		刘正涛	东华大学计算机科学与技术	2018级
 		纪之昀	东华大学信息管理与信息系统	2018级
-        吴文俊	东华大学金融学	2018级
+        		吴文俊	东华大学金融学		2018级
 指导教师
 		孙国豪	东华大学计算机学院
 
@@ -12,6 +12,7 @@
 
 2  作品效果图(代表作品特色的5-10张图)
 
+![image](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_1.png)
 图 1
 
 图 2
