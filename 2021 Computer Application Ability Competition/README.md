@@ -1,44 +1,44 @@
-!"#$%&'()\*\*+,
-
-学生信息 
+#学生信息 
 
 刘正涛  东华大学计算机科学与技术 2018 级 
 
-纪之昀  东华大学信息管理与信息系统  2018 级          吴文俊  东华大学金融学  2018 级 
+纪之昀  东华大学信息管理与信息系统  2018 级          
+
+吴文俊  东华大学金融学  2018 级 
 
 指导教师 
 
 孙国豪  东华大学计算机学院
 
-1   作品简介 
+##1   作品简介 
 
 党的十九大报告指出，现阶段中国社会的主要矛盾已转化为人民日益增长的美好生活 需要和不平衡  不充分的发展之间的矛盾，今后工作的重点是解决发展不平衡不充分的问题。 从多维角度看，不平等不仅包括收入分配不平等，还涉及健康不平等等。与此同时，2019 年中国肥胖人口规模超 2.5 亿人，肥胖人群规模的发展，以及由肥胖引起的健康问题已逐渐 成为社会关注的焦点。七成受访网民认为形体管控与健康相关，国民对于个人体重健康相关 意识较强。
 
 对此，我们结合数据分析、数据可视化、卷积神经网络等技术，努力建立动态化展示 界面，聚焦食品健康相关分析与预测，展示食品营养价值信息，致力于打造一个集健康预测， 食物查询，体质记录三位一体的平台，为推动全面健康奉献自己的力量。
 
-2   作品效果图(代表作品特色的 5-10 张图) 
+##2   作品效果图(代表作品特色的 5-10 张图) 
 
 ![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_1.png)
 
-- 1 
+<center> 图 1 </center>
 
 ![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_2.png)
 
 - 2 
 
-![](Aspose.Words.84e2aca8-0ad1-4f20-8d24-feacf1b48d19.003.jpeg)
+![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_3.png)
 
 - 3 
 
-![](Aspose.Words.84e2aca8-0ad1-4f20-8d24-feacf1b48d19.004.jpeg)
+![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_4.png)
 
 - 4 
 
-![](Aspose.Words.84e2aca8-0ad1-4f20-8d24-feacf1b48d19.005.jpeg)
+![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_5.png)
 
 - 5 
 
-![](Aspose.Words.84e2aca8-0ad1-4f20-8d24-feacf1b48d19.006.jpeg)
+![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_6.png)
 
 - 6 
 
@@ -58,7 +58,7 @@
 
 3. 项目模块与功能 
 
-![](Aspose.Words.84e2aca8-0ad1-4f20-8d24-feacf1b48d19.007.jpeg)
+![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_7.png)
 
 4. 技术运用与特色 
 
@@ -68,11 +68,11 @@
 
 层去提取特征，我们使用非线性的激活函数 Sigmoid 和 Tanh 进行压缩，将所得到的信号继 续往下传递。通过多次调整与尝试之后，我们发现 Adam  算法收敛速度在我们模型框架中 达到了最优。最后得到的输出是选到 4 个变量的概率，我们挑选概率最大的 y 作为我们判断 的结果。我们对模型应用到了测试集上进行评估，结果如下:准确率，精确率，召回率，F1 均达到了 0.98 以上，证明了我们模型的准确性。
 
-![](Aspose.Words.84e2aca8-0ad1-4f20-8d24-feacf1b48d19.008.png)
+![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_8.png)
 
 整体的网络模型结构如下图：
 
-![](Aspose.Words.84e2aca8-0ad1-4f20-8d24-feacf1b48d19.009.png)
+![](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_9.png)
 
 4   指导教师自评（250 字左右） 
 
