@@ -12,10 +12,10 @@
 
 2  作品效果图(代表作品特色的5-10张图)
 
-![image](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_1.png)
+<center>![image](https://github.com/June24-Wu/Project_in_DHU/blob/master/2021%20Computer%20Application%20Ability%20Competition/IMG/Picture_1.png)</center>
 
 
-图 1
+<center>图 1</center>
 
 图 2
 
