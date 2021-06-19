@@ -15,6 +15,7 @@ Mainly contains the main contributions and code ideas in various projects in Don
 | 2021 MCM/ICM | [MainPage](https://github.com/June24-Wu/Project_in_DHU/tree/master/2021%20MCM) | 2021.02 | Finalist Award (Top 3%) & Food Monitor System & XGBoost & Grey Forecast |
 | 2020 APMCM | [MainPage](https://github.com/June24-Wu/Project_in_DHU/tree/master/2020%20APMCM) | 2020.11 | Top 10% Award & Election Analysis & LSTM & SEIR |
 | Crawler Project | [MainPage](https://github.com/June24-Wu/Project_in_DHU/tree/master/Crawler%20Project) | 2020.08 —  2020.09 | Web Crawler Practice & Request & re |
+| 2020 PwC 24-Hour Business Challenge | [MainPage](https://github.com/June24-Wu/Project_in_DHU/tree/master/2020%20PwC%2024-Hour%20Business%20Challenge) | 2020.03| Case Study |
 
 
 
