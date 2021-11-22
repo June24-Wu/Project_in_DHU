@@ -1,0 +1,39 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: white;
+  background-position: center 0;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+  background-size: cover;
+
+  -webkit-background-size: cover;
+
+  -o-background-size: cover;
+
+  -moz-background-size: cover;
+
+  -ms-background-size: cover;
+}
+#title{
+  background-image:  url(../image/pexels-tanya-gorelova-3933207.jpg);
+  background-position: center 0;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+  background-size: cover;
+
+  -webkit-background-size: cover;
+
+  -o-background-size: cover;
+
+  -moz-background-size: cover;
+
+  -ms-background-size: cover;
+}
