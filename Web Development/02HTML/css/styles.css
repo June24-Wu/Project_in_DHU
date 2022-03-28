@@ -6,27 +6,19 @@ h1{
 }
 body{
     margin-top: 0px;
-    text-align: center;
 }
 
-/* -----------------------------class----------------------------- */
-.top_cloud{
-    position: absolute;
-    right: 300px;
-    top: 50px;
-}
-.bottom_cloud{
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
-}
+
+
 
 
 /* -----------------------------id----------------------------- */
 #top-container{
     background-color: #E4F9F5;
-    position: relative;
-    padding-top: 100px;
+    /* height: 200px;
+    width: 200px;
+    border: solid 10px;
+    padding: 20px; */
 }
 #middle-container {
     background-color: blue;
