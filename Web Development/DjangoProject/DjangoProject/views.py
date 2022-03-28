@@ -34,3 +34,27 @@ def cal_view(request,n,func = "add",m = 1):
 
 def redirect(request):
     return HttpResponseRedirect("/page/1")
+
+def test_get_post(request):
+
+    if request.method == "GET":
+        return HttpResponse(request.GET.get("a","no a"))
+    if request.method == "POST":
+        pass
+
+
+    return HttpResponse("-- Get Post Ok --")
+
+def calculator2(request):
+    if request.method == "GET":
+        n = int(request.GET.get("a"))
+        m = int(request.GET.get("b"))
+        func = request.GET.get("op")
+        if func == "+":
+            html = "<h1>%s + %s = %s" % (n,m,n+m)
+        if func == "-":
+            html = "<h1>%s - %s = %s" % (n,m,n-m)
+        if func == "*":
+            html = "<h1>%s * %s = %s" % (n,m,n*m)
+        return HttpResponse(html)
+    return HttpResponse("No Val")

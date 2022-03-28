@@ -32,5 +32,9 @@ urlpatterns = [
 
 
     # redirect
-    path("redirect",views.redirect)
+    path("redirect",views.redirect),
+
+    # get
+    path("test_get_post",views.test_get_post),
+    path("calculator2",views.calculator2)
 ]
