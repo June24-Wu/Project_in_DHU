@@ -36,5 +36,10 @@ urlpatterns = [
 
     # get
     path("test_get_post",views.test_get_post),
-    path("calculator2",views.calculator2)
+    path("calculator2",views.calculator2),
+
+    # model
+    path("test_html",views.test_html),
+    path("test_if_for",views.test_if_for),
+    path("calculator3",views.calculator3)
 ]
