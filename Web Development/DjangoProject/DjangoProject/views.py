@@ -106,6 +106,12 @@ def calculator3(request):
 
         return render(request,"calculator.html",locals())
 
+def base_view(request):
+    return render(request,"base.html")
+def music_view(request):
+    return render(request,"music.html")
+def sport_view(request):
+    return render(request,"sport.html")
 
 
 

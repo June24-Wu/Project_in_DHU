@@ -41,5 +41,9 @@ urlpatterns = [
     # model
     path("test_html",views.test_html),
     path("test_if_for",views.test_if_for),
-    path("calculator3",views.calculator3)
+    path("calculator3",views.calculator3),
+    path("base_view",views.base_view),
+    path("music_view",views.music_view),
+    path("sport_view",views.sport_view)
+
 ]
