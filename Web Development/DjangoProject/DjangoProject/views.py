@@ -106,6 +106,9 @@ def calculator3(request):
 
         return render(request,"calculator.html",locals())
 
+
+
+# 继承
 def base_view(request):
     return render(request,"base.html")
 def music_view(request):
