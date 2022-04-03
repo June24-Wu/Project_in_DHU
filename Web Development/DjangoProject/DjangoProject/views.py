@@ -117,5 +117,10 @@ def sport_view(request):
     return render(request,"sport.html")
 
 
+# 静态文件
+def test_static(request):
+    return render(request,"test_static.html")
+
+
 
     

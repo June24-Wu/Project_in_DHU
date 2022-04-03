@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试静态文件</title>
+</head>
+<body>
+    
+    <!-- 绝对路径 -->
+    <img src="http://127.0.0.1:8000/static/img/views.jpg" width="200px" height="200px" alt="">
+    <br>
+    <!-- 相对路径 -->
+    <img src="/static/img/views.jpg" width="200px" height="200px" alt="">
+    <!-- load方法 -->
+    {% load static%}
+    <img src="{% static 'img/views.jpg' %}" width="200px" height="200px" alt="">
+    
+</body>
+</html>
