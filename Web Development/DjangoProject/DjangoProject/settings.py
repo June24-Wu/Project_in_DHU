@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "music",
     "sport",
     "news",
+    "book_store"
 ]
 
 MIDDLEWARE = [

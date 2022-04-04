@@ -15,6 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path,include
+
 from . import views
 
 urlpatterns = [
@@ -49,5 +50,6 @@ urlpatterns = [
     path("music/",include("music.urls")),
     path("sport/",include("sport.urls")),
     path("news/",include("news.urls")),
+    # path("book_store/",include("book_store.urls"))
 
 ]
