@@ -50,6 +50,6 @@ urlpatterns = [
     path("music/",include("music.urls")),
     path("sport/",include("sport.urls")),
     path("news/",include("news.urls")),
-    # path("book_store/",include("book_store.urls"))
+    path("book_store/",include("book_store.urls"))
 
 ]

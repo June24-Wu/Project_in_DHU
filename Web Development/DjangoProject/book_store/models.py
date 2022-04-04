@@ -16,3 +16,5 @@ class Author(models.Model):
     name = models.CharField("作者",max_length=11,default="",null=False)
     age = models.IntegerField("年龄",default=1)
     email = models.EmailField("邮箱",null=True)
+    class Meta:
+        db_table = "author"
