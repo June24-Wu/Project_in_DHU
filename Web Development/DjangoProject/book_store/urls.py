@@ -18,6 +18,9 @@ from django.urls import path,include
 from . import views
 
 urlpatterns = [
-    path("index",views.view_index)
+    path("index",views.view_index),
+    path("set_cookie",views.set_cookies),
+    path("set_session",views.set_session),
+    path("get_session",views.get_session),
 
 ]

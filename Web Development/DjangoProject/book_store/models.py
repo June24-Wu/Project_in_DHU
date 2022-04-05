@@ -12,6 +12,8 @@ class Book(models.Model):
     info = models.CharField("信息",max_length=100,default="")
     class Meta:
         db_table = "book"
+    def __str__(self) -> str:
+        return self.title
 class Author(models.Model):
     name = models.CharField("作者",max_length=11,default="",null=False)
     age = models.IntegerField("年龄",default=1)
