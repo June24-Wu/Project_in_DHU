@@ -11,7 +11,7 @@
     <p>
         欢迎 {{request.session.user_name}}
     </p>
-    <p><a href="">退出登录</a></p>
+    <p><a href="user/logout">退出登录</a></p>
     <p><a href="">进入我的笔记</a></p>
 
     {% else %}
@@ -19,7 +19,7 @@
         <p>
             欢迎 {{request.COOKIES.user_name}}
         </p>
-        <p><a href="">退出登录</a></p>
+        <p><a href="user/logout">退出登录</a></p>
         <p><a href="">进入我的笔记</a></p>
         {% else %}
         <p><a href="user/login">登录</a></p>
